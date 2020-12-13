@@ -1,0 +1,32 @@
+---
+pdf: true
+---
+
+<!DOCTYPE html>
+<html lang="de">
+  {% include head.html %}
+  <body>
+    {% include nav.html %}
+    <main>
+
+      <div class="container">
+        <h1>{{ page.fachrich }} ({{ page.aaspf_echt }}.{{ page.grade }})
+          <br><small>{{ page.fachriche }}</h1>
+
+          <p>Grade: {{page.grade_lang}} ({{ page.aaspf_echt }}.{{ page.grade }})</p>
+
+          {% if page.url_echt != nil %}
+          <p>
+            <a href="{{ page.url_echt }}" target="_blank">Link zum Studiengang</a>
+          </p>
+          {% endif %}
+
+          <p>Download PDF {{ page.pdf_url }}</p>
+
+      </div>
+
+
+    </main>
+    {% include footer.html %}
+  </body>
+</html>

@@ -1,0 +1,281 @@
+-
+    titel_lang: 'Fakutät für Architektur'
+    dateiname: fakultaet_01
+    ansprechpartner: 'Britta Schwarz'
+    website: 'https://www.hm.edu/fk01'
+    titel: 'Fakultät 01'
+    uid_veranstalter: '01'
+-
+    titel: 'Fakultät 02'
+    titel_lang: 'Fakutät für Bauingenieurwesen'
+    dateiname: fakultaet_02
+    ansprechpartner: 'Kirsten Last '
+    website: 'https://www.hm.edu/fk02'
+    uid_veranstalter: '02'
+-
+    titel: 'Fakultät 03'
+    titel_lang: 'Fakutät für Maschinenbau, Fahrzeugtechnik, Flugzeugtechnik'
+    dateiname: fakultaet_03
+    ansprechpartner: 'Prof. Dr. Dahn '
+    website: 'https://www.hm.edu/fk03'
+    uid_veranstalter: '03'
+-
+    titel: 'Fakultät 04'
+    titel_lang: 'Fakutät für Elektrotechnik und Informationstechnik'
+    dateiname: fakultaet_04
+    ansprechpartner: 'Cornelia Lerchl'
+    website: 'https://www.hm.edu/fk04'
+    uid_veranstalter: '04'
+-
+    titel: 'Fakultät 05'
+    titel_lang: 'Fakutät für Versorgungs- und Gebäudetechnik, Verfahrenstechnik Papier und Verpackung, Druck- und Medientechnik'
+    dateiname: fakultaet_05
+    ansprechpartner: 'Anja Bossmanns'
+    website: 'https://www.hm.edu/fk05'
+    uid_veranstalter: '05'
+-
+    titel: 'Fakultät 06'
+    titel_lang: 'Fakutät für Angewandte Naturwissenschaften und Mechatronik'
+    dateiname: fakultaet_06
+    ansprechpartner: 'Kathrin Resch'
+    website: 'https://www.hm.edu/fk06'
+    uid_veranstalter: '06'
+    twitter: Fachschaft06_HM
+-
+    titel: 'Fakultät 07'
+    titel_lang: 'Fakutät für Informatik und Mathematik'
+    dateiname: fakultaet_07
+    ansprechpartner: 'Michaela Rambausek'
+    website: 'https://www.hm.edu/fk07'
+    uid_veranstalter: '07'
+-
+    titel: 'Fakultät 08'
+    titel_lang: 'Fakutät für Geoinformation'
+    dateiname: fakultaet_08
+    ansprechpartner: 'Kaija Blazek'
+    website: 'https://www.hm.edu/fk08'
+    uid_veranstalter: '08'
+-
+    titel: 'Fakultät 09'
+    titel_lang: 'Fakutät für Wirtschaftsingenieurwesen'
+    dateiname: fakultaet_09
+    ansprechpartner: 'Katharina Senger'
+    website: 'https://www.hm.edu/fk09'
+    uid_veranstalter: '09'
+-
+    titel: 'Fakultät 10'
+    titel_lang: 'Fakutät für Betriebswirtschaft'
+    dateiname: fakultaet_10
+    ansprechpartner: 'Hanna K. Zittlau'
+    website: 'https://www.hm.edu/fk10'
+    uid_veranstalter: '10'
+-
+    titel: 'Fakultät 11'
+    titel_lang: 'Fakutät für Angewandte Sozialwissenschaften'
+    dateiname: fakultaet_11
+    ansprechpartner: 'Sebastian Bernhard'
+    website: 'https://www.hm.edu/fk11'
+    uid_veranstalter: '11'
+-
+    titel: 'Fakultät 12'
+    titel_lang: 'Fakutät für Design'
+    dateiname: fakultaet_12
+    ansprechpartner: 'Frau Baermann'
+    website: 'https://www.hm.edu/fk12'
+    uid_veranstalter: '12'
+-
+    titel: 'Fakultät 13'
+    titel_lang: 'Fakutät für Studium Generale und Interdisziplinäre Studien'
+    dateiname: fakultaet_13
+    ansprechpartner: 'Christine Schrödl'
+    website: 'https://www.hm.edu/fk13'
+    uid_veranstalter: '13'
+-
+    titel: 'Fakultät 14'
+    titel_lang: 'Fakutät für Tourismus'
+    dateiname: fakultaet_14
+    ansprechpartner: 'Prof. Dr. Gruner'
+    website: 'https://www.hm.edu/fk14'
+    uid_veranstalter: '14'
+-
+    titel: HOKO
+    titel_lang: '0'
+    dateiname: hoko
+    ansprechpartner: '0'
+    website: 'https://hoko.de'
+    uid_veranstalter: hoko
+-
+    titel: HM-Kino
+    titel_lang: '0'
+    dateiname: hm-kino
+    ansprechpartner: '0'
+    website: ""
+    uid_veranstalter: kino
+-
+    titel: MHM-Magazin
+    titel_lang: '0'
+    dateiname: mhm-magazin
+    ansprechpartner: '0'
+    website: ""
+    uid_veranstalter: mhm
+-
+    titel: 'Robotik Labor'
+    titel_lang: '0'
+    dateiname: robotik_labor
+    ansprechpartner: '0'
+    website: ""
+    uid_veranstalter: rl
+-
+    titel: C.lab
+    titel_lang: '0'
+    dateiname: clab
+    ansprechpartner: '0'
+    website: ""
+    uid_veranstalter: clab
+-
+    titel: 'Prof. Dr. Haller'
+    titel_lang: '0'
+    dateiname: prof_dr_haller
+    ansprechpartner: '0'
+    website: ""
+    uid_veranstalter: ""
+-
+    titel: 'H2M Team'
+    titel_lang: '0'
+    dateiname: h2m_team
+    ansprechpartner: '0'
+    website: ""
+    uid_veranstalter: h2m
+-
+    titel: I-Club
+    titel_lang: '0'
+    dateiname: i-club
+    ansprechpartner: '0'
+    website: ""
+    uid_veranstalter: iclub
+-
+    titel: Aka-Flieg
+    titel_lang: '0'
+    dateiname: aka-flieg
+    ansprechpartner: '0'
+    website: ""
+    uid_veranstalter: aka
+-
+    titel: MunicHMotorsport
+    titel_lang: '0'
+    dateiname: munichmotorsport
+    ansprechpartner: '0'
+    website: ""
+    uid_veranstalter: mm
+-
+    titel: 'Agentur für Arbeit München'
+    titel_lang: '0'
+    dateiname: agentur_fuer_arbeit_muenchen
+    ansprechpartner: 'Hr. Welscher'
+    website: ""
+    uid_veranstalter: aa
+-
+    titel: ArbeiterKind.de
+    titel_lang: '0'
+    dateiname: arbeiterkindde
+    ansprechpartner: 'Hr. Schmid'
+    website: ""
+    uid_veranstalter: ak
+-
+    titel: 'Hochschulgemeinden der Hochschule München'
+    titel_lang: '0'
+    dateiname: hochschulgemeinden_der_hochschule_muenchen
+    ansprechpartner: 'Joachim Zuber'
+    website: ""
+    uid_veranstalter: ehg
+-
+    titel: 'Katholische Hochschulgemeinde der Hochschule München'
+    titel_lang: '0'
+    dateiname: katholische_hochschulgemeinde_der_hochschule_muenchen
+    ansprechpartner: 'Reinhard Weger'
+    website: ""
+    uid_veranstalter: khg
+-
+    titel: SCE
+    titel_lang: '0'
+    dateiname: sce
+    ansprechpartner: 'Dirk Hoppe'
+    website: ""
+    uid_veranstalter: sce
+-
+    titel: Studentenwerk
+    titel_lang: '0'
+    dateiname: studentenwerk
+    ansprechpartner: 'Fr. Land'
+    website: ""
+    uid_veranstalter: stwm
+-
+    titel: Paoso
+    titel_lang: '0'
+    dateiname: paoso
+    ansprechpartner: 'Hr Klug'
+    website: 'https://www.paoso.de'
+    uid_veranstalter: paoso
+-
+    titel: 'Roncalli Kolleg'
+    titel_lang: '0'
+    dateiname: roncalli_kolleg
+    ansprechpartner: 'Sebastian Bernhard'
+    website: ""
+    uid_veranstalter: rk
+-
+    titel: 'CAREER Center'
+    titel_lang: '0'
+    dateiname: career_center
+    ansprechpartner: 'Sabine Oberacher'
+    website: ""
+    uid_veranstalter: cc
+-
+    titel: Hochschulentwicklung
+    titel_lang: '0'
+    dateiname: hochschulentwicklung
+    ansprechpartner: 'Dr. Sven Winterhalder'
+    website: ""
+    uid_veranstalter: he
+-
+    titel: 'International Office'
+    titel_lang: '0'
+    dateiname: international_office
+    ansprechpartner: 'Amelie Bauer'
+    website: ""
+    uid_veranstalter: io
+-
+    titel: 'Projekt MINT4GIRLS'
+    titel_lang: '0'
+    dateiname: projekt_mint4girls
+    ansprechpartner: 'Katharina Borberg'
+    website: ""
+    uid_veranstalter: mint
+-
+    titel: Studienberatung
+    titel_lang: '0'
+    dateiname: studienberatung
+    ansprechpartner: 'Stefanie Lukasz'
+    website: ""
+    uid_veranstalter: sb
+-
+    titel: Studierendenvertretung
+    titel_lang: '0'
+    dateiname: studierendenvertretung
+    ansprechpartner: 'Georgia Zarikou'
+    website: ""
+    uid_veranstalter: stuve
+-
+    titel: WBZ
+    titel_lang: '0'
+    dateiname: wbz
+    ansprechpartner: 'Daniela Schuff'
+    website: ""
+    uid_veranstalter: wbz
+-
+    titel: Dual
+    titel_lang: '0'
+    dateiname: dual
+    ansprechpartner: 'Katharina Haug'
+    website: ""
+    uid_veranstalter: dual

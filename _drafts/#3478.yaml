@@ -1,0 +1,6271 @@
+---
+-
+    nummer: 01
+    stg: AR
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Architektur
+    fachriche: Architecture
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 6
+    rsem_tz: 0
+    rsem_dual: 6
+    wie: Vollzeit / Dual
+    pvers_vz: 219B
+    pvers_tz:
+    pvers_dual: 219B
+    ects_vz: 180
+    ects_tz: 0
+    ects_dual: 180
+    titelkz_m_vz: B.A.
+    titelkz_m_tz:
+    titelkz_m_dual: B.A.
+    titelkz_w_vz: B.A.
+    titelkz_w_tz:
+    titelkz_w_dual: B.A.
+    praxis_vz: Vorpraxis~0~8|---~0~|---~0~
+    praxis_tz:
+    praxis_dual: Vorpraxis~0~8|---~0~|---~0~
+    statdat: AD
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/01_ARB_219_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/01_ARB_219_SPO.pdf
+-
+    nummer: 01
+    stg: AR
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Architektur
+    fachriche: Architecture
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 4
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 219M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 120
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: M.A.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.A.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: AD
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Vertiefung Bauen im Bestand;Vertiefung Gestaltung;Vertiefung Nachhaltige Geb�udeplanung;Vertiefung St�dtebau
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/01_ARM_219_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 02
+    stg: BI
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Bauingenieurwesen
+    fachriche: Civil Engineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 3
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 9
+    wie: Vollzeit / Dual
+    pvers_vz: 219B
+    pvers_tz:
+    pvers_dual: 319B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: Vorpraxis~4~6|---~0~|Praxissemester~5~16
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~16
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 0
+    anz_sp_dual: 1
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Allgemeines Bauingenieurwesen ;Stahlbau und Fassade
+    schwerpunkt_tz:
+    schwerpunkt_dual: Allgemeines Bauingenieurwesen ;Stahlbau und Fassade
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/02_BIB_219B_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/02_BIB_319B_SPO.pdf
+-
+    nummer: 02
+    stg: BI
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Allgemeiner Ingenieurbau
+    fachriche: General Civil Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz:
+    pvers_tz: 212M
+    pvers_dual:
+    ects_vz:
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 1
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz: Ingenieurbau;Stahlbau und Gestaltungstechnik
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/02_BIM_212_SPO.pdf
+    po_url_dual:
+-
+    nummer: 02
+    stg: BN
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Bauingenieurwesen
+    fachriche: Civil Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 219M
+    pvers_tz: 319M
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 1
+    anz_sp_dual: 0
+    studienrichtung_vz: Ingenieurbau ;Stahlbau Leichtbau Glasbau
+    studienrichtung_tz: Ingenieurbau ;Stahlbau Leichtbau Glasbau
+    studienrichtung_dual:
+    schwerpunkt_vz: Energie Wasser Umwelt;Konstruktiver Ingenieurbau
+    schwerpunkt_tz: Energie Wasser Umwelt ;Konstruktiver Ingenieurbau
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/02_BNM_219M_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/02_BNM_319M_SPO.pdf
+    po_url_dual:
+-
+    nummer: 03
+    stg: FA
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Fahrzeugtechnik
+    fachriche: Automotive and Aeronautical Engineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 220B
+    pvers_tz:
+    pvers_dual: 220B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: Vorpraxis~0~12|---~0~|Praxissemester~5~20
+    praxis_tz:
+    praxis_dual: Vorpraxis~0~12|---~0~|Praxissemester~5~20
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 2
+    anz_sp_tz: 0
+    anz_sp_dual: 2
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Antriebssysteme;Erprobung und Messtechnik;Fahrdynamik und Fahrzeugakustik ;Fahrzeugaufbau;Fahrzeugmechatronik;Produktentwicklung;Sachverst�ndigenwesen;Strukturanalyse
+    schwerpunkt_tz:
+    schwerpunkt_dual: Antriebssysteme;Erprobung und Messtechnik;Fahrdynamik und Fahrzeugakustik ;Fahrzeugaufbau;Fahrzeugmechatronik;Produktentwicklung;Sachverst�ndigenwesen;Strukturanalyse
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_FAB_220_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_FAB_220_SPO.pdf
+-
+    nummer: 03
+    stg: FA
+    aaspf_echt: D
+    abschluss: Diplom
+    fachrich: Fahrzeugtechnik und Flugzeugtechnik
+    fachriche: Automotive and Aeronautical Engineering
+    stgart: 151
+    name: Erststudium Diplom (FH)
+    teilzeit: 1
+    rsem_vz: 8
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 211D
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 182
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: Dipl.-Ing. (FH)
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: Dipl.-Ing. (FH)
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|1.Praxissemester~3~|2.Praxissemester~6~
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 2
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz: Fahrzeugtechnik;Luft- und Raumfahrttechnik
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Kraftfahrzeug-Sachverst�ndigenwesen;Stra�enfahrzeuge;Verkehrstechnik
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_FAD_211_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 03
+    stg: FA
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Fahrzeugtechnik
+    fachriche: Automotive and Aeronautical Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz: 118M
+    pvers_tz: 218M
+    pvers_dual: 118M
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 90
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual: M.Sc.
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual: M.Sc.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 2
+    anz_sp_tz: 2
+    anz_sp_dual: 2
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Entwicklung und Management Fahrzeugaufbau;Fahrdynamik und Fahrzeugakustik;Fahrzeugantriebe;Karosserie und Fahrzeugsicherheit;Smart Vehicle
+    schwerpunkt_tz: Entwicklung und Management Fahrzeugaufbau;Fahrdynamik und Fahrzeugakustik;Fahrzeugantriebe;Karosserie und Fahrzeugsicherheit;Smart Vehicle
+    schwerpunkt_dual: Entwicklung und Management Fahrzeugaufbau;Fahrdynamik und Fahrzeugakustik;Fahrzeugantriebe;Karosserie und Fahrzeugsicherheit;Smart Vehicle
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_FAM_118_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/mediapool/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_FAM_118_SPO.pdf
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_FAM_118_SPO.pdf
+-
+    nummer: 03
+    stg: FE
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Fahrzeugmechatronik
+    fachriche: Automotive Mechatronics
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 121M
+    pvers_tz: 220M
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual:
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_FEM_220_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_FEM_220_SPO.pdf
+    po_url_dual:
+-
+    nummer: 03
+    stg: IA
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Ingenieurakustik
+    fachriche: Ingenieurakustik
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 03
+    stg: IA
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Ingenieurakustik (Modulstudium)
+    fachriche: Ingenieurakustik (Modulstudium)
+    stgart: 694
+    name: Weiterbildungsstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 1
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung:
+    berufsbegleitend: B
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 03
+    stg: LR
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Luft- und Raumfahrttechnik
+    fachriche: Aerospace Engineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 220B
+    pvers_tz:
+    pvers_dual: 220B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: Vorpraxis~0~12|---~0~|Praxissemester~5~20
+    praxis_tz:
+    praxis_dual: Vorpraxis~0~12|---~0~|Praxissemester~5~20
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_LRB_220_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_LRB_220_SPO.pdf
+-
+    nummer: 03
+    stg: LR
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Luft- und Raumfahrttechnik
+    fachriche: Aerospace Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 118M
+    pvers_tz: 218M
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual:
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_LRM_118_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/mediapool/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_LRM_118_SPO.pdf
+    po_url_dual:
+-
+    nummer: 03
+    stg: MB
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Maschinenbau
+    fachriche: Mechanical Engineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 220B
+    pvers_tz:
+    pvers_dual: 220B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Sc.
+    titelkz_w_vz: B.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Sc.
+    praxis_vz: Vorpraxis~0~12|---~0~|Praxissemester~5~20
+    praxis_tz:
+    praxis_dual: Vorpraxis~0~12|---~0~|Praxissemester~5~20
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 0
+    anz_sp_dual: 1
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Energietechnik;Mechatronik;Produktentwicklung;Produktion
+    schwerpunkt_tz:
+    schwerpunkt_dual: Energietechnik;Mechatronik;Produktentwicklung;Produktion
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_MBB_220_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_MBB_220_SPO.pdf
+-
+    nummer: 03
+    stg: MB
+    aaspf_echt: D
+    abschluss: Diplom
+    fachrich: Maschinenbau
+    fachriche: Mechanical Engineering
+    stgart: 151
+    name: Erststudium Diplom (FH)
+    teilzeit: 1
+    rsem_vz: 8
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 111D
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: B.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: B.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|1.Praxissemester~3~|2.Praxissemester~6~
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Allgemeiner Maschinenbau;Automatisierungstechnik;Energietechnik;Konstruktion;Produktionstechnik;Verfahrenstechnik
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_MBD_111_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 03
+    stg: MB
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Maschinenbau
+    fachriche: Mechanical Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz: 118M
+    pvers_tz: 218M
+    pvers_dual: 118M
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 90
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual: M.Sc.
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual: M.Sc.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_MBM_118_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/mediapool/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_MBM_118_SPO.pdf
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_MBM_118_SPO.pdf
+-
+    nummer: 03
+    stg: PD
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Produktionstechnik
+    fachriche: Production Engineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 11
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 03
+    stg: RS
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Applied Research in Engineering Sciences
+    fachriche: Applied Research in Engineering Sciences
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 120M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz: Biotechnologie/Bioingenieurwesen;Computational Engineering;Elektrotechnik;Energiemanagement und Energietechnik;Fahrzeugmechatronik;Fahrzeugtechnik;Geb�udetechnik;Geomatik;Informatik;Luft- und Raumfahrttechnik;Maschinenbau;Mechatronik/Feinwerktechnik;Mikro- und Nanotechnik;Paper Technology;Photonik;Printmedien, Technologien und Management;Stochastic Engineering in Business and Finance;Systems Engineering;Verpackungstechnik;Wirtschaftsinformatik;Wirtschaftsingenieurwesen
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_RSM_120_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 03
+    stg: RS
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Applied Research in Engineering Sciences (Modulstudium)
+    fachriche: Applied Research in Engineering Sciences (Modulstudium)
+    stgart: 494
+    name: Erg�nzungs-, Erweiterungs- und Zusatzstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 2
+    rsem_vz: 1
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis: Falsch
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 03
+    stg: TB
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Computational Engineering
+    fachriche: Computational Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 121M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 90
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/03_TBM_220_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 04
+    stg: EE
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Electrical Engineering
+    fachriche: Electrical Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz:
+    ects_dual:
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz:
+    anz_sp_dual:
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 04
+    stg: EI
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Elektrotechnik und Informationstechnik
+    fachriche: Electrical Engineering and Information Technology
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 216B
+    pvers_tz:
+    pvers_dual: 216B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 4
+    anz_sp_tz: 0
+    anz_sp_dual: 4
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Allgemeine Elektrotechnik;Automatisierungstechnik;Kommunikationstechnik;Technische Informatik
+    schwerpunkt_tz:
+    schwerpunkt_dual: Allgemeine Elektrotechnik;Automatisierungstechnik;Kommunikationstechnik;Technische Informatik
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_EIB_216_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_EIB_216_SPO.pdf
+-
+    nummer: 04
+    stg: EL
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Elektrotechnik
+    fachriche: Electrical Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz: 216M
+    pvers_tz: 216M
+    pvers_dual: 216M
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 90
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual: M.Sc.
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual: M.Sc.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 1
+    anz_sp_dual: 1
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Allgemeine Elektrotechnik;Automatisierungstechnik;Autonome Systeme;Elektromobilit�t;Kommunikationstechnik;Regenerative Energien/Energietechnik
+    schwerpunkt_tz: Allgemeine Elektrotechnik;Automatisierungstechnik;Autonome Systeme;Elektromobilit�t;Kommunikationstechnik;Regenerative Energien/Energietechnik
+    schwerpunkt_dual: Allgemeine Elektrotechnik;Automatisierungstechnik;Autonome Systeme;Elektromobilit�t;Kommunikationstechnik;Regenerative Energien/Energietechnik
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_ELM_216_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_ELM_216_SPO.pdf
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_ELM_216_SPO.pdf
+-
+    nummer: 04
+    stg: EM
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Elektrotechnik - Elektromobilit�t
+    fachriche: Electrical Engineering - Electromobility
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 216B
+    pvers_tz:
+    pvers_dual: 216B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_EMB_216_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_EMB_216_SPO.pdf
+-
+    nummer: 04
+    stg: RE
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Regenerative Energien - Elektrotechnik
+    fachriche: Renewable Energies - Energy Technology
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 216B
+    pvers_tz:
+    pvers_dual: 216B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_REB_216_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_REB_216_SPO.pdf
+-
+    nummer: 04
+    stg: SM
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Systems Engineering
+    fachriche: Systems Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 216M
+    pvers_tz: 216M
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual:
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_SMM_216_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/04_SMM_216_SPO.pdf
+    po_url_dual:
+-
+    nummer: 05
+    stg: DP
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Management Digitales Publizieren
+    fachriche: Management Digital Publishing
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 05
+    stg: DR
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Druck- und Medientechnik
+    fachriche: Print and Media Technology
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 119B
+    pvers_tz:
+    pvers_dual: 119B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~20
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~20
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_DRB_120_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_DRB_120_SPO.pdf
+-
+    nummer: 05
+    stg: GT
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Geb�udetechnik
+    fachriche: Building Services Engineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 3
+    wie: Vollzeit / Dual
+    pvers_vz: 115M
+    pvers_tz:
+    pvers_dual: 115M
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 90
+    titelkz_m_vz: M.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: M.Eng.
+    titelkz_w_vz: M.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: M.Eng.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_GTM_115_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_GTM_115_SPO.pdf
+-
+    nummer: 05
+    stg: PK
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Paper Technology (konsekutiv)
+    fachriche: Paper Technology (consecutive)
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 213M
+    pvers_tz: 118M
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz: M.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_PKM_213_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_PKM_213_SPO.pdf
+    po_url_dual:
+-
+    nummer: 05
+    stg: PR
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Printmedien, Technologie und Management
+    fachriche: Print Media, Technology and Management
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 112M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: M.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_PRM_119_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 05
+    stg: PW
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Paper Technology (Weiterbildung)
+    fachriche: Paper Technology (post-graduate)
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 4
+    rsem_tz: 8
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 115M
+    pvers_tz: 116M
+    pvers_dual:
+    ects_vz: 120
+    ects_tz: 120
+    ects_dual: 0
+    titelkz_m_vz: M.Eng.
+    titelkz_m_tz: M.Eng.
+    titelkz_m_dual:
+    titelkz_w_vz: M.Eng.
+    titelkz_w_tz: M.Eng.
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_PWM_115_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_PWM_115_SPO.pdf
+    po_url_dual:
+-
+    nummer: 05
+    stg: TK
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Technische/r Redakteur/in
+    fachriche:
+    stgart: 494
+    name: Erg�nzungs-, Erweiterungs- und Zusatzstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 1
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung:
+    berufsbegleitend: B
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 05
+    stg: TN
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Technische Redaktion und Kommunikation
+    fachriche: Technical Writing/Technical Communication
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 218B
+    pvers_tz:
+    pvers_dual: 218B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: Vorpraxis~0~6|---~0~|Praxissemester~5~18
+    praxis_tz:
+    praxis_dual: Vorpraxis~0~6|---~0~|Praxissemester~5~18
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_TNB_218_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_TNB_218_SPO.pdf
+-
+    nummer: 05
+    stg: VF
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Papier- und Verpackungstechnik
+    fachriche: Paper and Packaging Technology
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz: 0
+    ects_dual:
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual:
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 05
+    stg: VF
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Verpackungstechnik
+    fachriche: Packaging Technology
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 3
+    wie: Vollzeit / Dual
+    pvers_vz: 118M
+    pvers_tz:
+    pvers_dual: 118M
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 90
+    titelkz_m_vz: M.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: M.Eng.
+    titelkz_w_vz: M.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: M.Eng.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_VFM_118_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_VFM_118_SPO.pdf
+-
+    nummer: 05
+    stg: VS
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Energie- und Geb�udetechnik
+    fachriche: Building Services Engineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 210B
+    pvers_tz:
+    pvers_dual: 210B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~24
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~24
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_VSB_210_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_VSB_210_SPO.pdf
+-
+    nummer: 05
+    stg: VV
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Verpackungstechnik und Verfahrenstechnik Papier
+    fachriche: Packaging Technology and Paper Process Engingeering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 219B
+    pvers_tz:
+    pvers_dual: 219B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~18
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~18
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz: Verfahrenstechnik Papier und Biofasern;Verpackungstechnologie und Nachhaltigkeit
+    studienrichtung_tz:
+    studienrichtung_dual: Verfahrenstechnik Papier und Biofasern;Verpackungstechnologie und Nachhaltigkeit
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_VVB_219_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/05_VVB_219_SPO.pdf
+-
+    nummer: 06
+    stg: AO
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Augenoptik/Optometrie
+    fachriche: Ophthalmic Optics and Optometry
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 3
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 214B
+    pvers_tz:
+    pvers_dual: 214B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Sc.
+    titelkz_w_vz: B.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Sc.
+    praxis_vz: ---~0~|---~0~|Praxissemester~6~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~6~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_AOB_214_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_AOB_214_SPO.pdf
+-
+    nummer: 06
+    stg: BO
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Bioingenieurwesen
+    fachriche: Bioengineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 216B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: Vorpraxis~0~|---~0~|Praxissemester~5~
+    praxis_tz:
+    praxis_dual:
+    statdat: BW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_BOB_216_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 06
+    stg: BO
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Biotechnologie/Bioingenieurwesen
+    fachriche: Biotechnology/Bioengineering
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 112M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_BOM_112_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 06
+    stg: BT
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Bahntechnik - Antrieb, Bremse, Fahrdynamik
+    fachriche:
+    stgart: 694
+    name: Weiterbildungsstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 2
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung:
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 06
+    stg: CH
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Chemische Technik
+    fachriche: Chemical Engineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 219B
+    pvers_tz:
+    pvers_dual: 219B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~19
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~19
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_CHB_219_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_CHB_219_SPO.pdf
+-
+    nummer: 06
+    stg: MF
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Mechatronik/Feinwerktechnik
+    fachriche: Mechatronics/Precision Engineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 215B
+    pvers_tz:
+    pvers_dual: 215B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~0|---~0~|2.Praxissemester~6~
+    praxis_tz:
+    praxis_dual: ---~0~0|---~0~|2.Praxissemester~6~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz: Ger�tetechnik;Medizintechnik
+    studienrichtung_tz:
+    studienrichtung_dual: Ger�tetechnik;Medizintechnik
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_MFB_215_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_MFB_215_SPO.pdf
+-
+    nummer: 06
+    stg: MF
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Mechatronik/Feinwerktechnik
+    fachriche: Mechatronics/Precision Engineering
+    stgart: 290
+    name: Zweitstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz: 115M
+    pvers_tz: 215M
+    pvers_dual: 115M
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 90
+    titelkz_m_vz: M.Eng.
+    titelkz_m_tz: M.Eng.
+    titelkz_m_dual: M.Eng.
+    titelkz_w_vz: M.Eng.
+    titelkz_w_tz: M.Eng.
+    titelkz_w_dual: M.Eng.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_MFM_115_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_MFM_215_SPO.pdf
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_MFM_115_SPO.pdf
+-
+    nummer: 06
+    stg: MN
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Mikro- und Nanotechnik
+    fachriche: Micro- and Nanotechnology
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz: 114M
+    pvers_tz:
+    pvers_dual: 114M
+    ects_vz: 90
+    ects_tz:
+    ects_dual: 90
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual: M.Sc.
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual: M.Sc.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_MNM_114_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_MNM_114_SPO.pdf
+-
+    nummer: 06
+    stg: MT
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Mechatronik/Feinwerktechnik (Teilzeitstudium)
+    fachriche: Mechatronics/Precision Engineering
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 11
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 215B
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 210
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: B.Eng.
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: B.Eng.
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|Praxissemester~9~
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz: Ger�tetechnik;Medizintechnik
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_MTB_215_SPO.pdf
+    po_url_dual:
+-
+    nummer: 06
+    stg: PA
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Produktion und Automatisierung (international)
+    fachriche: Production and Automation
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 114B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|Praxisphase 1~3~|Praxisphase 2~6~
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 06
+    stg: PA
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Produktion und Automatisierung (international)
+    fachriche: Production and Automation
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 114M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: M.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_PAM_114_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 06
+    stg: PH
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Physikalische Technik
+    fachriche: Engineering Physics
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 217B
+    pvers_tz:
+    pvers_dual: 217B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Sc.
+    titelkz_w_vz: B.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Sc.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_PHB_217_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_PHB_217_SPO.pdf
+-
+    nummer: 06
+    stg: PN
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Produktion und Automatisierung
+    fachriche: Production and Automation
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 115B
+    pvers_tz:
+    pvers_dual: 115B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|1.Praxissemester~3~|2.Praxissemester~6~
+    praxis_tz:
+    praxis_dual: ---~0~|1.Praxissemester~3~|2.Praxissemester~6~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_PNB_115_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_PNB_115_SPO.pdf
+-
+    nummer: 06
+    stg: PO
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Photonik
+    fachriche: Photonics
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz: 115M
+    pvers_tz:
+    pvers_dual: 115M
+    ects_vz: 90
+    ects_tz:
+    ects_dual: 90
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual: M.Sc.
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual: M.Sc.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_POM_113_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/06_POM_113_SPO.pdf
+-
+    nummer: 06
+    stg: PT
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Technische Physik
+    fachriche:
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 0
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: ?
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat:
+    zuordnung:
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 07
+    stg: DC
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Data Science & Scientific Computing
+    fachriche: Data Science & Scientific Computing
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 220B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|Praxissemester~4~
+    praxis_tz:
+    praxis_dual:
+    statdat: IM
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_DCB_220_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 07
+    stg: IB
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Wirtschaftsinformatik
+    fachriche: Information Systems and Management
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 217B
+    pvers_tz:
+    pvers_dual: 217B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Sc.
+    titelkz_w_vz: B.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Sc.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~
+    statdat: IM
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_IBB_217_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_IBB_217_SPO.pdf
+-
+    nummer: 07
+    stg: IC
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Scientific Computing
+    fachriche: Scientific Computing
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 219B
+    pvers_tz:
+    pvers_dual: 219B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Sc.
+    titelkz_w_vz: B.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Sc.
+    praxis_vz: ---~0~|---~0~|Praxissemester~4~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~4~
+    statdat: IM
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Falsch
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_ICB_217_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_ICB_217_SPO.pdf
+-
+    nummer: 07
+    stg: IF
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Informatik
+    fachriche: Computer Science
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 219B
+    pvers_tz:
+    pvers_dual: 219B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Sc.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Sc.
+    titelkz_w_vz: B.Sc.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Sc.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~
+    statdat: IM
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_IFB_212_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_IFB_212_SPO.pdf
+-
+    nummer: 07
+    stg: IG
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Informatik
+    fachriche: Computer Science
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz: 119M
+    pvers_tz: 219M
+    pvers_dual: 119M
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 90
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual: M.Sc.
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual: M.Sc.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IM
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 1
+    anz_sp_dual: 1
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Embedded Computing;Software Engineering;Visual Computing and Machine Learning
+    schwerpunkt_tz: Embedded Computing;Software Engineering;Visual Computing and Machine Learning
+    schwerpunkt_dual: Embedded Computing;Software Engineering;Visual Computing and Machine Learning
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_IGM_110_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_IGM_119_SPO.pdf
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_IGM_110_SPO.pdf
+-
+    nummer: 07
+    stg: IN
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Wirtschaftsinformatik
+    fachriche: Information Systems and Management
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz: 212M
+    pvers_tz: 112M
+    pvers_dual: 212M
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 90
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual: M.Sc.
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual: M.Sc.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IM
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_INM_212_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_INM_112_SPO.pdf
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_INM_212_SPO.pdf
+-
+    nummer: 07
+    stg: IS
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Stochastic Engineering in Business and Finance
+    fachriche: Stochastic Engineering in Business and Finance
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 217M
+    pvers_tz: 117M
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz: M.Sc.
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual:
+    titelkz_w_vz: M.Sc.
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IM
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_ISM_117_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_ISM_117_SPO.pdf
+    po_url_dual:
+-
+    nummer: 07
+    stg: IT
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: IT-Sicherheit
+    fachriche: IT Security
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 220M
+    pvers_tz: 120M
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IM
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/07_ITM_220_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 08
+    stg: GD
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Angewandte Geod�sie und Geoinformatik
+    fachriche: Angewandte Geod�sie und Geoinformatik
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 216B
+    pvers_tz:
+    pvers_dual: 216B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|---~0~|Praxissemester~6~18
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~6~18
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/08_GDB_216_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/08_GDB_216_SPO.pdf
+-
+    nummer: 08
+    stg: GI
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Geoinformatik und Satellitenpositionierung
+    fachriche: Geoinformatics and Satellite Positioning
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 3
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz: 0
+    ects_dual:
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual:
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 08
+    stg: GN
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Geoinformatik und Navigation
+    fachriche: Geoinformatics and Navigation
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 217B
+    pvers_tz:
+    pvers_dual: 217B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~18
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~5~18
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/08_GNB_217_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/08_GNB_217_SPO.pdf
+-
+    nummer: 08
+    stg: GO
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Geotelematik und Navigation
+    fachriche: Geotelematics and Navigation
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz: 0
+    ects_dual:
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual:
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 08
+    stg: GO
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Geomatik
+    fachriche: Geomatics
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 3
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz: 212M
+    pvers_tz: 111M
+    pvers_dual: 212M
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 90
+    titelkz_m_vz: M.Eng.
+    titelkz_m_tz: M.Eng.
+    titelkz_m_dual: M.Eng.
+    titelkz_w_vz: M.Eng.
+    titelkz_w_tz: M.Eng.
+    titelkz_w_dual: M.Eng.
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 3
+    anz_sp_dual: 1
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Angewandte Geod�sie;Kartographie/Geomedientechnik;Navigation
+    schwerpunkt_tz: Angewandte Geod�sie;Kartographie/Geomedientechnik;Navigation
+    schwerpunkt_dual: Angewandte Geod�sie;Kartographie/Geomedientechnik;Navigation
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/08_GOM_212_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/08_GOM_111_SPO.pdf
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/08_GOM_212_SPO.pdf
+-
+    nummer: 08
+    stg: KA
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Kartographie und Geomedientechnik
+    fachriche: Cartography and Geomedia-Technology
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 111B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~20
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/08_KAB_111_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 08
+    stg: KG
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Kartographie|Geomedientechnik
+    fachriche: Cartography|Geomedia Technology
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 216B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~19
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/08_KGB_216_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 09
+    stg: AU
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Wirtschaftsingenieurwesen Automobilindustrie
+    fachriche: Automotive Industry
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 218B
+    pvers_tz:
+    pvers_dual: 218B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|Vorpraxis~0~10|Praxissemester~6~20
+    praxis_tz:
+    praxis_dual: ---~0~|Vorpraxis~0~10|Praxissemester~6~20
+    statdat: WW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_AUB_218_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_AUB_218_SPO.pdf
+-
+    nummer: 09
+    stg: DT
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Entrepreneurship and Digital Transformation
+    fachriche: Entrepreneurship and Digital Transformation
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 219M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: M.A.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.A.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: WW
+    zuordnung:
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_DTM_219_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 09
+    stg: GS
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Gr�ndung eines eigenen Start-ups
+    fachriche: Founding your own start-up
+    stgart: 494
+    name: Erg�nzungs-, Erweiterungs- und Zusatzstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 2
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 119Z
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: WW
+    zuordnung:
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 19.02.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/mediapool/media/dachmarke/dm_transfer/diehochschulemnchen/satzungen/dokumente2010/erwerb_hochschulzertifikat_gruendung_eines_eigenen_start_ups/grundfassung_28/Satzung_Ausfertigung_Bekanntmachung.pdf
+    po_url_dual:
+-
+    nummer: 09
+    stg: LM
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Wirtschaftsingenieurwesen Logistik
+    fachriche: Logistics Management
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 219B
+    pvers_tz:
+    pvers_dual: 219B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|Vorpraxis~0~10|Praxissemester~5~20
+    praxis_tz:
+    praxis_dual: ---~0~|Vorpraxis~0~10|Praxissemester~5~20
+    statdat: WW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_LMB_219_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_LMB_219_SPO.pdf
+-
+    nummer: 09
+    stg: WI
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Wirtschaftsingenieurwesen
+    fachriche: Engineering and Management
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 120B
+    pvers_tz:
+    pvers_dual: 120B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.Eng.
+    titelkz_m_tz:
+    titelkz_m_dual: B.Eng.
+    titelkz_w_vz: B.Eng.
+    titelkz_w_tz:
+    titelkz_w_dual: B.Eng.
+    praxis_vz: ---~0~|Vorpraxis~0~10|Praxissemester~6~20
+    praxis_tz:
+    praxis_dual: ---~0~|Vorpraxis~0~10|Praxissemester~6~20
+    statdat: WW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz: Bio- und Umwelttechnologie;Industrielle Technik;Informationstechnik
+    studienrichtung_tz:
+    studienrichtung_dual: Bio- und Umwelttechnologie;Industrielle Technik;Informationstechnik
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_WIB_120_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_WIB_120_SPO.pdf
+-
+    nummer: 09
+    stg: WI
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Wirtschaftsingenieurwesen (konsekutiv)
+    fachriche: Engineering and Management
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 3
+    wie: Vollzeit / Dual
+    pvers_vz: 120M
+    pvers_tz:
+    pvers_dual: 120M
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 90
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: WW
+    zuordnung: T
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_WIM_120_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_WIM_120_SPO.pdf
+-
+    nummer: 09
+    stg: WW
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Wirtschaftsingenieurwesen (Weiterbildung)
+    fachriche: Business Administration and Engineering
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 120M
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: WW
+    zuordnung: T
+    berufsbegleitend: B
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 1
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz: Zugangstyp Bauingenieurwesen;Zugangstyp Ingenieur- oder Naturwissenschaften;Zugangstyp Wirtschaftsingenieurwesen
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/09_WWM_120_SPO.pdf
+    po_url_dual:
+-
+    nummer: 10
+    stg: BS
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Betriebliche Steuerlehre
+    fachriche: Taxation
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 4
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 220M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 120
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 10
+    stg: BW
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Betriebswirtschaft
+    fachriche: Business Administration
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 3
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 220B
+    pvers_tz:
+    pvers_dual: 220B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.A.
+    titelkz_m_tz:
+    titelkz_m_dual: B.A.
+    titelkz_w_vz: B.A.
+    titelkz_w_tz:
+    titelkz_w_dual: B.A.
+    praxis_vz: ---~0~|---~0~|Praxissemester~4~18
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~4~18
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 2
+    anz_sp_tz: 0
+    anz_sp_dual: 2
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Agiles Projektmanagement;Bank-, Finanz- und Risikomanagement I;Bank-, Finanz- und Risikomanagement II;Controlling;Digital Business Transformation;Einkaufs- und Beschaffungsmanagement;Human Resource Management I;Human Resource Management II;International Management I;International Management II;Marketingmanagement I;Marketingmanagement II;Rechnungswesen;Servicemanagement;Steuern I;Steuern II;Supply Chain Innovation;Supply Chain Prozesse;Unternehmen und Recht;Versicherungsmanagement
+    schwerpunkt_tz:
+    schwerpunkt_dual: Agiles Projektmanagement;Bank-, Finanz- und Risikomanagement I;Bank-, Finanz- und Risikomanagement II;Controlling;Digital Business Transformation;Einkaufs- und Beschaffungsmanagement;Human Resource Management I;Human Resource Management II;International Management I;International Management II;Marketingmanagement I;Marketingmanagement II;Rechnungswesen;Servicemanagement;Steuern I;Steuern II;Supply Chain Innovation;Supply Chain Prozesse;Unternehmen und Recht;Versicherungsmanagement
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/10_BWB_220_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/10_BWB_220_SPO.pdf
+-
+    nummer: 10
+    stg: BW
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Betriebswirtschaft
+    fachriche: Business Administration
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 3
+    wie: Vollzeit / Dual
+    pvers_vz: 220M
+    pvers_tz:
+    pvers_dual: 220M
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 90
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|---~0~
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz: Applied Business Innovation;Digital Procurement and Supply Management;Digital Technology Management;Finance & Accounting;Human Resource Management;Marketing Management
+    studienrichtung_tz:
+    studienrichtung_dual: Applied Business Innovation;Digital Procurement and Supply Management;Digital Technology Management;Finance & Accounting;Human Resource Management;Marketing Management
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/10_BWM_220_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/10_BWM_220_SPO.pdf
+-
+    nummer: 10
+    stg: GR
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Green Economy and Digital Innovation
+    fachriche: Green Economy and Digital Innovation
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: WW
+    zuordnung:
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 10
+    stg: MS
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: MBA Management & Business Strategy
+    fachriche: MBA Management & Business Strategy
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: B
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 10
+    stg: PM
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Personalmanagement
+    fachriche: Human Resource Management
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 10
+    stg: UB
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Betriebswirtschaftslehre und Unternehmensf�hrung
+    fachriche: Business Management
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 11
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 220B
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 210
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: B
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 10
+    stg: UF
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Unternehmensf�hrung
+    fachriche: Business Management
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 3
+    rsem_vz: 7
+    rsem_tz: 11
+    rsem_dual: 11
+    wie: Vollzeit / Teilzeit / Dual
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz:
+    ects_dual:
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz:
+    anz_sp_dual:
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 11
+    stg: GE
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Gesellschaftlicher Wandel und Teilhabe
+    fachriche: Social Changes and Participation
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 215M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: M.A.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.A.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_GEM_215_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 11
+    stg: GW
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Gemeinwesenentwicklung, Quartiersmanagement und Lokale �konomie
+    fachriche: Community Development and Local Economy
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 112M
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 120
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: M.C.D.
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: M.C.D.
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_GWM_112_SPO.pdf
+    po_url_dual:
+-
+    nummer: 11
+    stg: PF
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Pflege
+    fachriche: Nursing Studies
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 3
+    rsem_vz: 9
+    rsem_tz: 0
+    rsem_dual: 9
+    wie: Vollzeit / Dual
+    pvers_vz:
+    pvers_tz:
+    pvers_dual: 211B
+    ects_vz:
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual: B.Sc.
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual: B.Sc.
+    praxis_vz:
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|2.Praxissemester~0~
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_PFB_211_SPO.pdf
+-
+    nummer: 11
+    stg: PF
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Advanced Nursing Practice
+    fachriche: Advanced Nursing Practice
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 216M
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: M.Sc.
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: M.Sc.
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_PFM_216_SPO.pdf
+    po_url_dual:
+-
+    nummer: 11
+    stg: PF
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Advanced Nursing Practice (Modulstudium)
+    fachriche: Advanced Nursing Practice (Modulstudium)
+    stgart: 494
+    name: Erg�nzungs-, Erweiterungs- und Zusatzstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 1
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: SW
+    zuordnung:
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 11
+    stg: PY
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Psychotherapie mit Schwerpunkt Verhaltenstherapie
+    fachriche: Psychotherapy Specialized in Cognitive-Behavioral Therapy
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 4
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 215M
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 60
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: M.A.
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: M.A.
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_PYM_215_SPO.pdf
+    po_url_dual:
+-
+    nummer: 11
+    stg: SB
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Soziale Arbeit BASA-Online
+    fachriche: Social Work - basa-online
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 8
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 220B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: B.A.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: B.A.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Bildungsarbeit mit Erwachsenen und �lteren Menschen;Bildungsarbeit mit Kindern und Jugendlichen;Intergenerative Soziale Arbeit;�ffentliche Sozialverwaltung;Soziale Arbeit im Bereich Delinquenz;Soziale Arbeit mit alten Menschen;Soziale Arbeit mit Erwachsenen / Rehabilitation;Soziale Arbeit mit Kindern und Jugendlichen;Soziale Arbeit und Diversity
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SBB_220_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 11
+    stg: SD
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Diagnostik, Beratung und Intervention
+    fachriche: Diagnosis, Counselling and Intervention
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 220M
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: M.A.
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: M.A.
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SDM_220_SPO.pdf
+    po_url_dual:
+-
+    nummer: 11
+    stg: SE
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Soziale Arbeit in der Einwanderungsgesellschaft
+    fachriche:
+    stgart: 694
+    name: Weiterbildungsstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 2
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: SW
+    zuordnung:
+    berufsbegleitend: B
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 11
+    stg: SF
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Angewandte Forschung in der Sozialen Arbeit
+    fachriche: Applied Research in Social Work
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 3
+    rsem_vz: 3
+    rsem_tz: 6
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz: 215M
+    pvers_tz: 116M
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz: M.A.
+    titelkz_m_tz: M.A.
+    titelkz_m_dual:
+    titelkz_w_vz: M.A.
+    titelkz_w_tz: M.A.
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SFM_215_SPO.pdf
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SFM_116_SPO.pdf
+    po_url_dual:
+-
+    nummer: 11
+    stg: SI
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Management Sozialer Innovationen
+    fachriche: Management of Social Innovations
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 220B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~
+    praxis_tz:
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SIB_220_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 11
+    stg: SK
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Bildung und Erziehung im Kindesalter-BEKI
+    fachriche: Childhood education (age 0 - 12)
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 219B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: B.A.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: B.A.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|Praxisphase 1~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SKB_119_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 11
+    stg: SO
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Sozialmanagement
+    fachriche: Social Work and Social Economy
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 215M
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 120
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: M.S.M.
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: M.S.M.
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SOM_219_SPO.pdf
+    po_url_dual:
+-
+    nummer: 11
+    stg: SR
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Soziale Arbeit (Teilzeitstudium)
+    fachriche: Social Work (Part-Time)
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 14
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 218B
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 210
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: B.A.
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: B.A.
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|2.Praxissemester~9~
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 1
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz: Bildung, Kultur, Medien in der Sozialen Arbeit;Cultural Studies in der Sozialen Arbeit;Soziale Arbeit in Kindheit, Jugend und Familie;Soziale Arbeit und Gesundheit;Sozialmanagement
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SRB_218_SPO.pdf
+    po_url_dual:
+-
+    nummer: 11
+    stg: SW
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Soziale Arbeit
+    fachriche: Social Work
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 218B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: B.A.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: B.A.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~
+    praxis_tz:
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 1
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Bildung, Kultur, Medien in der Sozialen Arbeit;Cultural Studies in der Sozialen Arbeit;Soziale Arbeit in Kindheit, Jugend und Familie;Soziale Arbeit und Gesundheit;Sozialmanagement
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SWB_218_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 11
+    stg: SY
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Mental Health (Psychische Gesundheit)
+    fachriche: Mental Health
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 211M
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: MMH
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: MMH
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: SW
+    zuordnung: S
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/11_SYM_211_SPO.pdf
+    po_url_dual:
+-
+    nummer: 12
+    stg: DS
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Design
+    fachriche: Design
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 117B
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|Praxissemester~5~18
+    praxis_tz:
+    praxis_dual:
+    statdat: AD
+    zuordnung: G
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz: Foto Design;Industrie Design;Kommunikationsdesign
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/12_DSB_217_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 12
+    stg: DS
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Advanced Design
+    fachriche: Advanced Design
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 112M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: M.A.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.A.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: AD
+    zuordnung: G
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1: 15.11.2020
+    end_1: 15.01.2021
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/12_DSM_112_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 13
+    stg: AW
+    aaspf_echt:
+    abschluss:
+    fachrich: Allgemeinwissenschaften (Fakult�t 13)
+    fachriche:
+    stgart:
+    name:
+    teilzeit: 1
+    rsem_vz: 0
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: ?
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat:
+    zuordnung:
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 13
+    stg: IK
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Interkulturelle Kommunikation und Kooperation
+    fachriche: Intercultural Communication and Cooperation
+    stgart: 690
+    name: Weiterbildungsstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 2
+    rsem_vz: 4
+    rsem_tz: 5
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz:
+    pvers_tz: 119M
+    pvers_dual:
+    ects_vz:
+    ects_tz: 90
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: M.A.
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: M.A.
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IM
+    zuordnung: T
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/mediapool/media/dachmarke/dm_transfer/download_13/spo_6/spo_aktuell/13_ikm_aktuell_spo.pdf
+    po_url_dual:
+-
+    nummer: 13
+    stg: IK
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Interkulturelle Kommunikation und Kooperation
+    fachriche: Intercultural Communication and Cooperation
+    stgart: 494
+    name: Erg�nzungs-, Erweiterungs- und Zusatzstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 2
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 203Z
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|---~0~|---~0~
+    praxis_dual:
+    statdat: IM
+    zuordnung:
+    berufsbegleitend: B
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz: Zertifikat
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/13_IKZ_203_SPO.pdf
+    po_url_dual:
+-
+    nummer: 13
+    stg: PI
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Internationales Projektmanagement
+    fachriche: International Project Management
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 2
+    rsem_vz: 0
+    rsem_tz: 11
+    rsem_dual: 0
+    wie: Teilzeit
+    pvers_vz:
+    pvers_tz: 220B
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 210
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz: B.A.
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz: B.A.
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz: ---~0~|1.Praxissemester~9~|2.Praxissemester~10~
+    praxis_dual:
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: B
+    sem: 220
+    erst_sem: Falsch
+    hoeheres_sem: Wahr
+    start_1:
+    end_1:
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz: Betriebswirtschaftslehre und Unternehmensf�hrung;Kultur;Wirtschaftsinformatik
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/13_PIB_220_SPO.pdf
+    po_url_dual:
+-
+    nummer: 13
+    stg: PZ
+    aaspf_echt: Z
+    abschluss:
+    fachrich: International Project Management Certificate
+    fachriche: International Project Management Certificate
+    stgart: 494
+    name: Erg�nzungs-, Erweiterungs- und Zusatzstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 2
+    rsem_vz: 1
+    rsem_tz: 1
+    rsem_dual: 0
+    wie: Vollzeit / Teilzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz:
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat:
+    zuordnung:
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz:
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 13
+    stg: ZD
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Interdisziplin�re Studien (Schwerpunkt Ingenieurwissenschaften)
+    fachriche:
+    stgart: 284
+    name: Zweitstudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat: IW
+    zuordnung:
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 14
+    stg: TH
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Hospitality Management
+    fachriche: Hospitality Management
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 212M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: M.A.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.A.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/14_THM_116_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 14
+    stg: TR
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Tourismus-Management
+    fachriche: Tourism Management
+    stgart: 184
+    name: Erststudium Bachelor an Fachhochschulen
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 7
+    wie: Vollzeit / Dual
+    pvers_vz: 218B
+    pvers_tz:
+    pvers_dual: 218B
+    ects_vz: 210
+    ects_tz: 0
+    ects_dual: 210
+    titelkz_m_vz: B.A.
+    titelkz_m_tz:
+    titelkz_m_dual: B.A.
+    titelkz_w_vz: B.A.
+    titelkz_w_tz:
+    titelkz_w_dual: B.A.
+    praxis_vz: ---~0~|---~0~|Praxissemester~4~
+    praxis_tz:
+    praxis_dual: ---~0~|---~0~|Praxissemester~4~
+    statdat: IW
+    zuordnung: W
+    berufsbegleitend: N
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Wahr
+    start_1: 01.12.2020
+    end_1: 15.01.2021
+    start_h: 15.11.2020
+    end_h: 15.01.2021
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 5
+    anz_sp_tz: 0
+    anz_sp_dual: 5
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz: Destination Management;Digital Marketing und Management;Hospitality Management;Mobility Management;Travel and Tourism Management
+    schwerpunkt_tz:
+    schwerpunkt_dual: Destination Management;Digital Marketing und Management;Hospitality Management;Mobility Management;Travel and Tourism Management
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/14_TRB_218_SPO.pdf
+    po_url_tz:
+    po_url_dual: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/14_TRB_218_SPO.pdf
+-
+    nummer: 14
+    stg: TR
+    aaspf_echt: M
+    abschluss: Master
+    fachrich: Tourismus-Management
+    fachriche: Tourism Management
+    stgart: 790
+    name: Konsekutives Masterstudium Master an Fachhochschulen (Abschlusspr�fung vorausgesetzt)
+    teilzeit: 1
+    rsem_vz: 3
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz: 113M
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 90
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz: M.A.
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz: M.A.
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz: ---~0~|---~0~|---~0~
+    praxis_tz:
+    praxis_dual:
+    statdat: WW
+    zuordnung: W
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz: https://w3-mediapool.hm.edu/media/dachmarke/dm_transfer/download_13/spo_6/spo_versionen/14_TRM_216_SPO.pdf
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 99
+    stg: CE
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Courses in English
+    fachriche: Courses in English
+    stgart: 494
+    name: Erg�nzungs-, Erweiterungs- und Zusatzstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 1
+    rsem_vz: 0
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: ?
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat:
+    zuordnung:
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 99
+    stg: GA
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Gaststudium
+    fachriche:
+    stgart: 997
+    name: Keine Abschlusspr�fung m�glich bzw. angestrebt
+    teilzeit: 1
+    rsem_vz: 1
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat:
+    zuordnung:
+    berufsbegleitend: B
+    sem: 220
+    erst_sem: Wahr
+    hoeheres_sem: Falsch
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 99
+    stg: SC
+    aaspf_echt: Z
+    abschluss:
+    fachrich: Summer School
+    fachriche: Summer School
+    stgart: 997
+    name: Keine Abschlusspr�fung m�glich bzw. angestrebt
+    teilzeit: 1
+    rsem_vz: 0
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: ?
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz: 0
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat:
+    zuordnung:
+    berufsbegleitend: B
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz: 0
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:
+-
+    nummer: 99
+    stg: ZA
+    aaspf_echt: B
+    abschluss: Bachelor
+    fachrich: Sonderstudium
+    fachriche:
+    stgart: 494
+    name: Erg�nzungs-, Erweiterungs- und Zusatzstudium Abschlusszeugnis/Zertifikat
+    teilzeit: 1
+    rsem_vz: 7
+    rsem_tz: 0
+    rsem_dual: 0
+    wie: Vollzeit
+    pvers_vz:
+    pvers_tz:
+    pvers_dual:
+    ects_vz:
+    ects_tz: 0
+    ects_dual: 0
+    titelkz_m_vz:
+    titelkz_m_tz:
+    titelkz_m_dual:
+    titelkz_w_vz:
+    titelkz_w_tz:
+    titelkz_w_dual:
+    praxis_vz:
+    praxis_tz:
+    praxis_dual:
+    statdat:
+    zuordnung:
+    berufsbegleitend: N
+    sem:
+    erst_sem:
+    hoeheres_sem:
+    start_1:
+    end_1:
+    start_h:
+    end_h:
+    vorpraxis:
+    akkreditiert_von:
+    akkreditiert_bis:
+    akkreditiert_agentur:
+    anz_sp_vz:
+    anz_sp_tz: 0
+    anz_sp_dual: 0
+    studienrichtung_vz:
+    studienrichtung_tz:
+    studienrichtung_dual:
+    schwerpunkt_vz:
+    schwerpunkt_tz:
+    schwerpunkt_dual:
+    po_url_vz:
+    po_url_tz:
+    po_url_dual:

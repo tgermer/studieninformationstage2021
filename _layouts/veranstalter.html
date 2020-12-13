@@ -1,0 +1,71 @@
+---
+layout: container
+title: {{ page.titel }}
+---
+
+<style>
+  .bg-img {
+    background-image: url("{{ site.url }}/assets/img/dm_roter_wuerfel_julia_bergmeister.jpg");
+    background-position: center;
+    background-repeat: no-repeate;
+    background-size: cover;
+    min-height: 300px;
+  }
+</style>
+
+
+<div class="row">
+  <div class="col-12 col-sm-6 bg-primary text-white pt-5">
+    <h1>{% if page.titel_lang != "0" %}{{ page.titel_lang }}{% else %}{{ page.titel }}{% endif %}</h1>
+    <a href="{{ page.website }}" target="_blank" class="btn btn-sm btn-outline-light mt-5 mb-3" role="button">Zur Webseite von {{ page.titel }}</a>
+  </div>
+  <div class="col-12 col-sm-6 bg-img">
+  </div>
+</div>
+
+{% assign veranstaltungen = site.data.veranstaltungen | where_exp: "search", "search.uid_veranstalter == page.uid_veranstalter" %}
+
+<h2 class="mt-5 mb-3">Chatte mit uns</h2>
+
+
+<div class="row">
+  <div class="col-12 col-sm-8">
+
+    <h2 class="mt-5 mb-3">Veranstaltungen</h2>
+
+
+    {% for veranstaltung in veranstaltungen %}
+    <div class="mt-5">
+      <small>{{ veranstaltung.tag }}, {{ veranstaltung.start }}–{{ veranstaltung.ende }}</small>
+      <h3>{{ veranstaltung.titel }}{% if veranstaltung.aufzeichnung == "true" %}&nbsp;<sup><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="red" class="bi bi-record-circle" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16z" />
+            <path d="M11 8a3 3 0 1 1-6 0 3 3 0 0 1 6 0z" />
+          </svg></sup>{% endif %}</h3>
+      <p class="text-muted">{{ veranstaltung.sprecher }}</p>
+      <p>{{ veranstaltung.teaser }}</p>
+      <p><a href="{{ veranstaltung.url-zoom }}" target="_blank" role="button" class="btn btn-sm btn-outline-primary">An {{ veranstaltung.kategorie }} über Zoom-Meetings teilnehmen</a>
+    </div>
+    {% endfor %}
+
+    {% if page.titel contains "Fakultät" %}
+
+    <h2 class="mt-5 mb-5">Unser Studiengänge an der Fakultät</h2>
+
+    {% assign studienangebot = site.data.studiengaenge | where_exp: "search", "search.nummer == page.uid_veranstalter" %}
+
+    {% for stg in studienangebot %}
+    {% if stg.aaspf_echt != "Z" %}
+    <h6><a href="{{ site.url }}/studienangebot/{{ stg.dateiname }}/">{{ stg.fachrich }} ({{ stg.aaspf_echt }}.&#8239;{{ stg.grade }})</a></h6>
+    {% endif %}
+    {% endfor %}
+
+    {% endif %}
+
+  </div>
+  <div class="col-12 col-sm-4 pt-5">
+    {% if page.twitter != '' %}
+      <a class="twitter-timeline" data-lang="de" data-height="700" href="https://twitter.com/{{ page.twitter }}?ref_src=twsrc%5Etfw">Tweets by {{ page.twitter }}</a>
+      <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    {% endif %}
+  </div>
+</div>

@@ -1,0 +1,1512 @@
+-
+    nummer: '01'
+    fachrich: Architektur
+    fachriche: Architecture
+    dateiname: architektur_bachelor
+    stg: AR
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ar-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/ar-b'
+    inplanung: ""
+    url_echt: 'https://www.ar.hm.edu/lehre/bachelor/Bachelor.de.html'
+-
+    nummer: '01'
+    fachrich: Architektur
+    fachriche: Architecture
+    dateiname: architektur_master
+    stg: AR
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: ar-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/ar-m'
+    inplanung: ""
+    url_echt: 'https://www.ar.hm.edu/lehre/master/Master.de.html'
+-
+    nummer: '02'
+    fachrich: 'Allgemeiner Ingenieurbau'
+    fachriche: 'General Civil Engineering'
+    dateiname: allgemeiner_ingenieurbau_master
+    stg: BI
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: bi-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/bi-m'
+    inplanung: ""
+    url_echt: 'https://www.bau.hm.edu/studienangebot/masterallgemeineringenieurbau_1/index.de.html'
+-
+    nummer: '02'
+    fachrich: Bauingenieurwesen
+    fachriche: 'Civil Engineering'
+    dateiname: bauingenieurwesen_bachelor
+    stg: BI
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: bi-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/bi-b'
+    inplanung: ""
+    url_echt: 'https://www.bau.hm.edu/studienangebot/bachelor_1/bachelor.de.html'
+-
+    nummer: '02'
+    fachrich: Bauingenieurwesen
+    fachriche: ""
+    dateiname: bauingenieurwesen_master
+    stg: BN
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: bn-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/bn-m'
+    inplanung: ""
+    url_echt: 'https://www.bau.hm.edu/studienangebot/masterallgemeineringenieurbau_1/index.de.html'
+-
+    nummer: '02'
+    fachrich: 'Facility Management'
+    fachriche: 'Facility Management'
+    dateiname: facility_management_master
+    stg: FC
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: fc-m
+    grade: 'Facility Management'
+    grade_lang: 'Facility Management'
+    url: 'https://www.hm.edu/fc-m'
+    inplanung: ""
+    url_echt: 'https://www.bau.hm.edu/studienangebot/weiterbildung/masterfacilitymanagement_2/master_facility_management.de.html'
+-
+    nummer: '03'
+    fachrich: 'Applied Research in Engineering Sciences'
+    fachriche: 'Applied Research in Engineering Sciences'
+    dateiname: applied_research_in_engineering_sciences_master
+    stg: RS
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: rs-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/rs-m'
+    inplanung: ""
+    url_echt: 'https://www.me.hm.edu/studienangebot/master/master_applied_research_in_engineering_sciences/index.de.html'
+-
+    nummer: '03'
+    fachrich: Fahrzeugmechatronik
+    fachriche: 'Automotive Mechatronics'
+    dateiname: fahrzeugmechatronik_master
+    stg: FE
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: fe-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/fe-m'
+    inplanung: ""
+    url_echt: 'https://www.me.hm.edu/studienangebot/master/master_fe/index.de.html'
+-
+    nummer: '03'
+    fachrich: Fahrzeugtechnik
+    fachriche: 'Automotive and Aeronautical Engineering'
+    dateiname: fahrzeugtechnik_bachelor
+    stg: FA
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: fa-b
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/fa-b'
+    inplanung: ""
+    url_echt: 'https://www.me.hm.edu/studienangebot/bachelor/bachelor_fa/index.de.html'
+-
+    nummer: '03'
+    fachrich: Fahrzeugtechnik
+    fachriche: 'Automotive and Aeronautical Engineering'
+    dateiname: fahrzeugtechnik_master
+    stg: FA
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: fa-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/fa-m'
+    inplanung: ""
+    url_echt: 'https://www.me.hm.edu/studienangebot/master/master_fahrzeugtechnik/index.de.html'
+-
+    nummer: '03'
+    fachrich: Ingenieurakustik
+    fachriche: ""
+    dateiname: ingenieurakustik_master
+    stg: IA
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: ia-m
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/ia-m'
+    inplanung: ""
+    url_echt: 'https://www.hm.edu/allgemein/studienangebote/wissenschaftliche_weiterbildung/master/ingenieurakustik/index.de.html'
+-
+    nummer: '03'
+    fachrich: Ingenieurakustik
+    fachriche: ""
+    dateiname: ingenieurakustik_zertifikat
+    stg: IA
+    aaspf_echt: Z
+    abschluss: Zertifikat
+    stg_kurz: ia-z
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/ia-z'
+    inplanung: ""
+    url_echt: ""
+-
+    nummer: '03'
+    fachrich: 'Luft- und Raumfahrttechnik'
+    fachriche: 'Aerospace Engineering'
+    dateiname: luft_und_raumfahrttechnik_bachelor
+    stg: LR
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: lr-b
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/lr-b'
+    inplanung: ""
+    url_echt: 'https://www.me.hm.edu/studienangebot/bachelor/bachelor_lrt/index.de.html'
+-
+    nummer: '03'
+    fachrich: 'Luft- und Raumfahrttechnik'
+    fachriche: 'Aerospace Engineering'
+    dateiname: luft_und_raumfahrttechnik_master
+    stg: LR
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: lr-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/lr-m'
+    inplanung: ""
+    url_echt: 'https://www.me.hm.edu/studienangebot/master/master_luft_und_raumfahrttechnik/index.de.html'
+-
+    nummer: '03'
+    fachrich: Maschinenbau
+    fachriche: 'Mechanical Engineering'
+    dateiname: maschinenbau_bachelor
+    stg: MB
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: mb-b
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/mb-b'
+    inplanung: ""
+    url_echt: 'https://www.me.hm.edu/studienangebot/bachelor/bachelor_mb/index.de.html'
+-
+    nummer: '03'
+    fachrich: Maschinenbau
+    fachriche: 'Mechanical Engineering'
+    dateiname: maschinenbau_master
+    stg: MB
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: mb-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/mb-m'
+    inplanung: ""
+    url_echt: 'https://www.me.hm.edu/studienangebot/master/master_maschinenbau/index.de.html'
+-
+    nummer: '03'
+    fachrich: Produktionstechnik
+    fachriche: 'Production Engineering'
+    dateiname: produktionstechnik_bachelor
+    stg: PD
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: pd-b
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/pd-b'
+    inplanung: ""
+    url_echt: ""
+-
+    nummer: '03'
+    fachrich: 'Technische Berechnung und Simulation'
+    fachriche: 'Computational Engineering'
+    dateiname: technische_berechnung_und_simulation_master
+    stg: TB
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: tb-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/tb-m'
+    inplanung: ""
+    url_echt: 'https://www.me.hm.edu/studienangebot/master/tbm/index.de.html'
+-
+    nummer: '04'
+    fachrich: 'Electrical Engineering'
+    fachriche: 'Electrical Engineering'
+    dateiname: electrical_engineering_master
+    stg: EE
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: ee-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/ee-m'
+    inplanung: ""
+    url_echt: 'https://www.ee.hm.edu/master/master_et/Elektrotechnik.de.html'
+-
+    nummer: '04'
+    fachrich: Elektrotechnik
+    fachriche: 'Electrical Engineering'
+    dateiname: elektrotechnik_master
+    stg: EL
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: el-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/el-m'
+    inplanung: ""
+    url_echt: 'https://www.ee.hm.edu/master/master_et/Elektrotechnik.de.html'
+-
+    nummer: '04'
+    fachrich: 'Elektrotechnik - Elektromobilität'
+    fachriche: 'Electrical Engineering - Electromobility'
+    dateiname: elektrotechnik_elektromobilitaet_bachelor
+    stg: EM
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: em-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/em-b'
+    inplanung: ""
+    url_echt: 'https://www.ee.hm.edu/bachelor/elektromobilitaet/index.de.html'
+-
+    nummer: '04'
+    fachrich: 'Elektrotechnik und Informationstechnik'
+    fachriche: 'Electrical Engineering and Information Technology'
+    dateiname: elektrotechnik_und_informationstechnik_bachelor
+    stg: EI
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ei-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/ei-b'
+    inplanung: ""
+    url_echt: 'https://www.ee.hm.edu/bachelor/bachelorelektrotechnik/index.de.html'
+-
+    nummer: '04'
+    fachrich: 'Regenerative Energien - Elektrotechnik'
+    fachriche: 'Renewable Energies - Energy Technology'
+    dateiname: regenerative_energien_elektrotechnik_bachelor
+    stg: RE
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: re-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/re-b'
+    inplanung: ""
+    url_echt: 'https://www.ee.hm.edu/bachelor/bachelor_regenerative_energien/index.de.html'
+-
+    nummer: '04'
+    fachrich: 'Systems Engineering'
+    fachriche: 'Systems Engineering'
+    dateiname: systems_engineering_master
+    stg: SM
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: sm-m
+    grade: 'Systems Eng.'
+    grade_lang: 'Systems Engineering'
+    url: 'https://www.hm.edu/sm-m'
+    inplanung: ""
+    url_echt: 'https://www.ee.hm.edu/master/master_se/Startseite.de.html'
+-
+    nummer: '05'
+    fachrich: 'Druck- und Medientechnik'
+    fachriche: 'Print and Media Technology'
+    dateiname: druck_und_medientechnik_bachelor
+    stg: DR
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: dr-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/dr-b'
+    inplanung: ""
+    url_echt: 'http://www.pm.hm.edu/studienangebot/bachelor/uebersicht.html'
+-
+    nummer: '05'
+    fachrich: 'Energie- und Gebäudetechnik'
+    fachriche: 'Building Services Engineering'
+    dateiname: energie_und_gebaeudetechnik_bachelor
+    stg: VS
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: vs-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/vs-b'
+    inplanung: ""
+    url_echt: 'https://www.bs.hm.edu/studienangebot/bachelorstudiengang_1/index.de.html'
+-
+    nummer: '05'
+    fachrich: Gebäudetechnik
+    fachriche: 'Building Services Engineering'
+    dateiname: gebaeudetechnik_master
+    stg: GT
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: gt-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/gt-m'
+    inplanung: ""
+    url_echt: 'https://www.bs.hm.edu/studienangebot/masterstudiengang_1/index.de.html'
+-
+    nummer: '05'
+    fachrich: 'Management Digitales Publizieren'
+    fachriche: 'Management Digital Publishing'
+    dateiname: management_digitales_publizieren_master
+    stg: DP
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: dp-m
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/dp-m'
+    inplanung: ""
+    url_echt: 'https://www.hm.edu/allgemein/weiterbildung/master/master_digitales_publizieren/master_management_digitales_publizieren.de.html'
+-
+    nummer: '05'
+    fachrich: 'Paper Technology (konsekutiv)'
+    fachriche: 'Paper Technology (consecutive)'
+    dateiname: paper_technology_konsekutiv_master
+    stg: PK
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: pk-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/pk-m'
+    inplanung: ""
+    url_echt: 'https://www.pp.hm.edu/papier_6/master_paper_technologie_4/index.de.jsp'
+-
+    nummer: '05'
+    fachrich: 'Paper Technology (Weiterbildung)'
+    fachriche: 'Paper Technology (post-graduate)'
+    dateiname: paper_technology_weiterbildung_master
+    stg: PW
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: pw-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/pw-m'
+    inplanung: ""
+    url_echt: 'https://www.pp.hm.edu/papier_6/master_paper_technologie_4/index.de.jsp'
+-
+    nummer: '05'
+    fachrich: 'Papier- und Verpackungstechnik'
+    fachriche: 'Paper and Packaging Technology'
+    dateiname: papier_und_verpackungstechnik_bachelor
+    stg: VF
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: vf-b
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/vf-b'
+    inplanung: ""
+    url_echt: 'http://www.pp.hm.edu/'
+-
+    nummer: '05'
+    fachrich: 'Printmedien, Technologie und Management'
+    fachriche: 'Print Media, Technology and Managemnt'
+    dateiname: printmedien_technologie_und_management_master
+    stg: PR
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: pr-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/pr-m'
+    inplanung: ""
+    url_echt: 'http://www.printmedien-master.de'
+-
+    nummer: '05'
+    fachrich: 'Technische Redaktion und Kommunikation'
+    fachriche: 'Technical Writing/Technical Communication'
+    dateiname: technische_redaktion_und_kommunikation_bachelor
+    stg: TN
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: tn-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/tn-b'
+    inplanung: ""
+    url_echt: 'http://www.hm.edu/trk'
+-
+    nummer: '05'
+    fachrich: 'Technische/r Redakteur/in'
+    fachriche: ""
+    dateiname: technische_r_redakteur_in_zertifikat
+    stg: TK
+    aaspf_echt: Z
+    abschluss: Zertifikat
+    stg_kurz: tk-z
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/tk-z'
+    inplanung: ""
+    url_echt: ""
+-
+    nummer: '05'
+    fachrich: Verpackungstechnik
+    fachriche: 'Packaging Technology'
+    dateiname: verpackungstechnik_master
+    stg: VF
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: vf-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/vf-m'
+    inplanung: ""
+    url_echt: 'https://www.pp.hm.edu/verpackung_4/master_paper_technologie_5/index.de.jsp'
+-
+    nummer: '05'
+    fachrich: 'Verpackungstechnik und Verfahrenstechnik Papier'
+    fachriche: 'Packaging Technology and Paper Process Engineering'
+    dateiname: verpackungstechnik_und_verfahrenstechnik_papier_bachelor
+    stg: VV
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: vv-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/vv-b'
+    inplanung: ""
+    url_echt: 'https://www.pp.hm.edu/index.de.html'
+-
+    nummer: '06'
+    fachrich: Augenoptik/Optometrie
+    fachriche: 'Ophthalmic Optics and Optometry'
+    dateiname: augenoptik_optometrie_bachelor
+    stg: AO
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ao-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/ao-b'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/bachelorstudium/aob.html'
+-
+    nummer: '06'
+    fachrich: 'Bahntechnik - Antrieb'
+    fachriche: ' Bremse'
+    dateiname: bahntechnik_antrieb_zertifikat
+    stg: ' Fahrdynamik'
+    aaspf_echt: ""
+    abschluss: Zertifikat
+    stg_kurz: ' fahrdynamik-'
+    grade: ""
+    grade_lang: ""
+    url: BT
+    inplanung: Z
+    url_echt: 'https://www.hm.edu/bt-z'
+-
+    nummer: '06'
+    fachrich: Bioingenieurwesen
+    fachriche: Bioengineering
+    dateiname: bioingenieurwesen_bachelor
+    stg: BO
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: bo-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/bo-b'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/bachelorstudium/bob.html'
+-
+    nummer: '06'
+    fachrich: Biotechnologie/Bioingenieurwesen
+    fachriche: Biotechnology/Bioengineering
+    dateiname: biotechnologie_bioingenieurwesen_master
+    stg: BO
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: bo-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/bo-m'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/de/masterstudium/bbm.html'
+-
+    nummer: '06'
+    fachrich: 'Chemische Technik'
+    fachriche: 'Chemical Engineering'
+    dateiname: chemische_technik_bachelor
+    stg: CH
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ch-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/ch-b'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/bachelorstudium/ctb.html'
+-
+    nummer: '06'
+    fachrich: Mechatronik/Feinwerktechnik
+    fachriche: 'Mechatronics/Precision Engineering'
+    dateiname: mechatronik_feinwerktechnik_bachelor
+    stg: MF
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: mf-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/mf-b'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/bachelorstudium/mfb.html'
+-
+    nummer: '06'
+    fachrich: Mechatronik/Feinwerktechnik
+    fachriche: 'Mechatronics/Precision Engineering'
+    dateiname: mechatronik_feinwerktechnik_master
+    stg: MF
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: mf-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/mf-m'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/masterstudium/mfm.html'
+-
+    nummer: '06'
+    fachrich: 'Mechatronik/Feinwerktechnik (Teilzeitstudium)'
+    fachriche: 'Mechatronics/Precision Engineering'
+    dateiname: mechatronik_feinwerktechnik_teilzeitstudium_bachelor
+    stg: MT
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: mt-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/mt-b'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/bachelorstudium/mfb.html'
+-
+    nummer: '06'
+    fachrich: 'Mikro- und Nanotechnik'
+    fachriche: 'Micro- and Nanotechnology'
+    dateiname: mikro_und_nanotechnik_master
+    stg: MN
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: mn-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/mn-m'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/masterstudium/mnm.html'
+-
+    nummer: '06'
+    fachrich: Photonik
+    fachriche: Photonics
+    dateiname: photonik_master
+    stg: PO
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: po-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/po-m'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/masterstudium/pom.html'
+-
+    nummer: '06'
+    fachrich: 'Physikalische Technik'
+    fachriche: 'Engineering Physics'
+    dateiname: physikalische_technik_bachelor
+    stg: PH
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ph-b
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/ph-b'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/bachelorstudium/phb.html'
+-
+    nummer: '06'
+    fachrich: 'Produktion und Automatisierung'
+    fachriche: 'Production and Automation'
+    dateiname: produktion_und_automatisierung_bachelor
+    stg: PN
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: pn-b
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/pn-b'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/bachelorstudium/pnb.html'
+-
+    nummer: '06'
+    fachrich: 'Produktion und Automatisierung (international)'
+    fachriche: 'Production and Automation'
+    dateiname: produktion_und_automatisierung_international_bachelor
+    stg: PA
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: pa-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/pa-b'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/internationaler-studiengang/pab.html'
+-
+    nummer: '06'
+    fachrich: 'Produktion und Automatisierung (international)'
+    fachriche: 'Production and Automation'
+    dateiname: produktion_und_automatisierung_international_master
+    stg: PA
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: pa-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/pa-m'
+    inplanung: ""
+    url_echt: 'http://www.fb06.fh-muenchen.de/fb/index.php/de/internationaler-studiengang/pab.html'
+-
+    nummer: '07'
+    fachrich: Informatik
+    fachriche: 'Computer Science'
+    dateiname: informatik_bachelor
+    stg: IF
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: if-b
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/if-b'
+    inplanung: ""
+    url_echt: 'https://www.cs.hm.edu/studienangebote/studiengaenge/if_informatik/index.de.html'
+-
+    nummer: '07'
+    fachrich: Informatik
+    fachriche: 'Computer Science'
+    dateiname: informatik_master
+    stg: IG
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: ig-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/ig-m'
+    inplanung: ""
+    url_echt: 'https://www.cs.hm.edu/studienangebote/studiengaenge/ig_informatik/index.de.html'
+-
+    nummer: '07'
+    fachrich: 'Scientific Computing'
+    fachriche: 'Scientific Computing'
+    dateiname: scientific_computing_bachelor
+    stg: IC
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ic-b
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/ic-b'
+    inplanung: ""
+    url_echt: 'https://www.cs.hm.edu/studienangebote/studiengaenge/ic_scientific_computing/index.de.html'
+-
+    nummer: '07'
+    fachrich: Sonderstudium
+    fachriche: ""
+    dateiname: sonderstudium_bachelor
+    stg: ZA
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: za-b
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/za-b'
+    inplanung: ""
+    url_echt: ""
+-
+    nummer: '07'
+    fachrich: 'Stochastic Engineering in Business and Finance'
+    fachriche: 'Stochastic Engineering in Business and Finance'
+    dateiname: stochastic_engineering_in_business_and_finance_master
+    stg: IS
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: is-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/is-m'
+    inplanung: ""
+    url_echt: 'https://www.cs.hm.edu/studienangebote/studiengaenge/is_stochastic_engineering/index.de.html'
+-
+    nummer: '07'
+    fachrich: Wirtschaftsinformatik
+    fachriche: 'Information Systems and Management'
+    dateiname: wirtschaftsinformatik_bachelor
+    stg: IB
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ib-b
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/ib-b'
+    inplanung: ""
+    url_echt: 'https://www.cs.hm.edu/studienangebote/studiengaenge/ib_wirtschaftsinformatik/index.de.html'
+-
+    nummer: '07'
+    fachrich: Wirtschaftsinformatik
+    fachriche: 'Information Systems and Management'
+    dateiname: wirtschaftsinformatik_master
+    stg: IN
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: in-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/in-m'
+    inplanung: ""
+    url_echt: 'https://www.cs.hm.edu/studienangebote/studiengaenge/in_wirtschaftsinformatik/index.de.html'
+-
+    nummer: '08'
+    fachrich: 'Angewandte Geodäsie und Geoinformatik'
+    fachriche: ""
+    dateiname: angewandte_geodaesie_und_geoinformatik_bachelor
+    stg: GD
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: gd-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/gd-b'
+    inplanung: ""
+    url_echt: 'https://www.geo.hm.edu/studienangebote/angewandte_geodaesie_und_geoinformatik/index.de.jsp'
+-
+    nummer: '08'
+    fachrich: 'Geoinformatik und Navigation'
+    fachriche: 'Geoinformatics and Navigation'
+    dateiname: geoinformatik_und_navigation_bachelor
+    stg: GN
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: gn-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/gn-b'
+    inplanung: ""
+    url_echt: 'https://www.geo.hm.edu/studienangebote/geoinformatik_und_navigation/index.de.html'
+-
+    nummer: '08'
+    fachrich: 'Geoinformatik und Satellitenpositionierung'
+    fachriche: 'Geoinformatics and Satellite Positioning'
+    dateiname: geoinformatik_und_satellitenpositionierung_bachelor
+    stg: GI
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: gi-b
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/gi-b'
+    inplanung: ""
+    url_echt: 'https://www.geo.hm.edu/studienangebote/geoinformatik_und_satellitenpositionierung/index.de.html'
+-
+    nummer: '08'
+    fachrich: Geomatik
+    fachriche: Geomatics
+    dateiname: geomatik_master
+    stg: GO
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: go-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/go-m'
+    inplanung: ""
+    url_echt: 'https://www.geo.hm.edu/studienangebote/geomatik/index.de.html'
+-
+    nummer: '08'
+    fachrich: 'Geotelematik und Navigation'
+    fachriche: 'Geotelematics and Navigation'
+    dateiname: geotelematik_und_navigation_bachelor
+    stg: GO
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: go-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/go-b'
+    inplanung: ""
+    url_echt: 'https://www.geo.hm.edu/studienangebote/geotelematik_und_navigation/index.de.html'
+-
+    nummer: '08'
+    fachrich: 'Kartographie | Geomedientechnik'
+    fachriche: 'Kartographie | Geomedientechnik'
+    dateiname: kartographie_geomedientechnik_bachelor
+    stg: KG
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: kg-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/kg-b'
+    inplanung: ""
+    url_echt: 'https://www.geo.hm.edu/studienangebote/kartographie_und_geomedientechnik/index.de.html'
+-
+    nummer: '08'
+    fachrich: 'Kartographie und Geomedientechnik'
+    fachriche: 'Cartography and Geomedia-Technology'
+    dateiname: kartographie_und_geomedientechnik_bachelor
+    stg: KA
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ka-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/ka-b'
+    inplanung: ""
+    url_echt: 'https://www.geo.hm.edu/studienangebote/kartographie_und_geomedientechnik/index.de.html'
+-
+    nummer: '09'
+    fachrich: 'Entrepreneurship and Digital Transformation'
+    fachriche: 'Entrepreneurship and Digital Transformation'
+    dateiname: entrepreneurship_and_digital_transformation_master
+    stg: DT
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: dt-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/dt-m'
+    inplanung: ""
+    url_echt: 'http://www.hm.edu/deepdive'
+-
+    nummer: '09'
+    fachrich: 'Gründung eines eigenen Start-ups'
+    fachriche: 'Founding your own start-up'
+    dateiname: gruendung_eines_eigenen_startups_zertifikat
+    stg: GS
+    aaspf_echt: Z
+    abschluss: Zertifikat
+    stg_kurz: gs-z
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/gs-z'
+    inplanung: ""
+    url_echt: 'https://www.wi.hm.edu/03_studieninteressierte/studienangebot/hochschulzertifikat__gruendung_eines_eigenen_start_ups_/startseitehochschulzertifikat.de.html'
+-
+    nummer: '09'
+    fachrich: Wirtschaftsingenieurwesen
+    fachriche: 'Business Administration and Engineering'
+    dateiname: wirtschaftsingenieurwesen_bachelor
+    stg: WI
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: wi-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/wi-b'
+    inplanung: ""
+    url_echt: 'https://www.wi.hm.edu/03_studieninteressierte/studienangebot/bachelorstudiengaenge/bachelor_wirtschaftsingenieurwesen_1/neue_startseite_bachelor_wi.de.html'
+-
+    nummer: '09'
+    fachrich: 'Wirtschaftsingenieurwesen Automobilindustrie'
+    fachriche: 'Automotive Industry'
+    dateiname: wirtschaftsingenieurwesen_automobilindustrie_bachelor
+    stg: AU
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: au-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/au-b'
+    inplanung: ""
+    url_echt: 'https://www.wi.hm.edu/03_studieninteressierte/studienangebot/bachelorstudiengaenge/bachelor_wi_automobilindustrie_1/Startseite_Bachelor_AU.de.html'
+-
+    nummer: '09'
+    fachrich: 'Wirtschaftsingenieurwesen (konsekutiv)'
+    fachriche: 'Business Administration and Engineering'
+    dateiname: wirtschaftsingenieurwesen_konsekutiv_master
+    stg: WI
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: wi-m
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/wi-m'
+    inplanung: ""
+    url_echt: 'https://www.wi.hm.edu/03_studieninteressierte/studienangebot/masterstudiengang/master_wi_konsekutiv/index.de.html'
+-
+    nummer: '09'
+    fachrich: 'Wirtschaftsingenieurwesen Logistik'
+    fachriche: 'Logistics Management'
+    dateiname: wirtschaftsingenieurwesen_logistik_bachelor
+    stg: LM
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: lm-b
+    grade: Eng.
+    grade_lang: Engineering
+    url: 'https://www.hm.edu/lm-b'
+    inplanung: ""
+    url_echt: 'https://www.wi.hm.edu/03_studieninteressierte/studienangebot/bachelorstudiengaenge/bachelor_wi_logistik_1/Startseite_Bachelor_LM.de.html'
+-
+    nummer: '09'
+    fachrich: 'Wirtschaftsingenieurwesen (Weiterbildung)'
+    fachriche: 'Business Administration and Engineering'
+    dateiname: wirtschaftsingenieurwesen_weiterbildung_master
+    stg: WW
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: ww-m
+    grade: 'BA and Eng.'
+    grade_lang: 'Business Administration and Engineering'
+    url: 'https://www.hm.edu/ww-m'
+    inplanung: ""
+    url_echt: 'https://www.wi.hm.edu/03_studieninteressierte/studienangebot/mba___engineering/index.de.html'
+-
+    nummer: '10'
+    fachrich: 'Betriebliche Steuerlehre'
+    fachriche: Taxation
+    dateiname: betriebliche_steuerlehre_master
+    stg: BS
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: bs-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/bs-m'
+    inplanung: ""
+    url_echt: 'https://www.bwl.hm.edu/s/m/ma_tax.de.html'
+-
+    nummer: '10'
+    fachrich: Betriebswirtschaft
+    fachriche: 'Business Administration'
+    dateiname: betriebswirtschaft_bachelor
+    stg: BW
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: bw-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/bw-b'
+    inplanung: ""
+    url_echt: 'https://www.bwl.hm.edu/s/b/ba_bwl.de.html'
+-
+    nummer: '10'
+    fachrich: Betriebswirtschaft
+    fachriche: 'Business Administration'
+    dateiname: betriebswirtschaft_master
+    stg: BW
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: bw-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/bw-m'
+    inplanung: ""
+    url_echt: 'https://www.bwl.hm.edu/s/m/msc_bwl.de.html'
+-
+    nummer: '10'
+    fachrich: 'Betriebswirtschaftslehre und Unternehmensführung'
+    fachriche: 'Business Management'
+    dateiname: betriebswirtschaftslehre_und_unternehmensfuehrung_bachelor
+    stg: UB
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ub-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/ub-b'
+    inplanung: ""
+    url_echt: 'https://www.bwl.hm.edu/s/b/ba_bwl_uf/uebersicht.de.html'
+-
+    nummer: '10'
+    fachrich: 'Green Economy and Digital Innovation'
+    fachriche: 'Green Economy and Digital Innovation'
+    dateiname: green_economy_and_digital_innovation_master
+    stg: GR
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: gr-m
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/gr-m'
+    inplanung: ""
+    url_echt: 'https://www.bwl.hm.edu/s/m/mba_green_economy/einstiegsseite_14.de.html'
+-
+    nummer: '10'
+    fachrich: 'International Business Administration'
+    fachriche: 'International Business Administration'
+    dateiname: international_business_administration_bachelor
+    stg: BB
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: bb-b
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/bb-b'
+    inplanung: ""
+    url_echt: 'https://www.bwl.hm.edu/s/b/ba_iba.de.html'
+-
+    nummer: '10'
+    fachrich: 'MBA Management & Business Strategy'
+    fachriche: 'MBA Management & Business Strategy'
+    dateiname: mba_management_business_strategy_master
+    stg: MS
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: ms-m
+    grade: BA
+    grade_lang: 'Business Administration'
+    url: 'https://www.hm.edu/ms-m'
+    inplanung: ""
+    url_echt: 'https://www.bwl.hm.edu/s/m/mba/einstiegsseite_10.de.html'
+-
+    nummer: '10'
+    fachrich: Personalmanagement
+    fachriche: 'Human Resource Management'
+    dateiname: personalmanagement_master
+    stg: PM
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: pm-m
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/pm-m'
+    inplanung: ""
+    url_echt: 'https://www.bwl.hm.edu/s/m/ma_hr.de.html'
+-
+    nummer: '10'
+    fachrich: Unternehmensführung
+    fachriche: 'Business Management'
+    dateiname: unternehmensfuehrung_bachelor
+    stg: UF
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: uf-b
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/uf-b'
+    inplanung: ""
+    url_echt: 'https://www.bwl.hm.edu/s/b/ba_bwl_uf/uebersicht.de.html'
+-
+    nummer: '11'
+    fachrich: 'Advanced Nursing Practice'
+    fachriche: 'Advanced Nursing Practice'
+    dateiname: advanced_nursing_practice_master
+    stg: PF
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: pf-m
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/pf-m'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/master/angewandte_forschung_in_der_sozialen_arbeit_2/index.de.jsp'
+-
+    nummer: '11'
+    fachrich: 'Advanced Nursing Practice (Modulstudium)'
+    fachriche: 'Advanced Nursing Practice (Modulstudium)'
+    dateiname: advanced_nursing_practice_modulstudium_zertifikat
+    stg: PF
+    aaspf_echt: Z
+    abschluss: Zertifikat
+    stg_kurz: pf-z
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/pf-z'
+    inplanung: ""
+    url_echt: ""
+-
+    nummer: '11'
+    fachrich: 'Angewandte Forschung in der Sozialen Arbeit'
+    fachriche: 'Applied Research in Social Work'
+    dateiname: angewandte_forschung_in_der_sozialen_arbeit_master
+    stg: SF
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: sf-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/sf-m'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/master/angewandte_forschung_in_der_sozialen_arbeit/index.de.html'
+-
+    nummer: '11'
+    fachrich: 'Bildung und Erziehung im Kindesalter-BEKI'
+    fachriche: 'Childhood education (age 0 - 12)'
+    dateiname: bildung_und_erziehung_im_kindesalterbeki_bachelor
+    stg: SK
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: sk-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/sk-b'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/bachelor/bildung_und_erziehung_im_kindesalter/index.de.html'
+-
+    nummer: '11'
+    fachrich: 'Diagnostik, Beratung und Intervention'
+    fachriche: 'Diagnosis Counselling and Intervention'
+    dateiname: diagnostik_beratung_und_intervention_master
+    stg: SD
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: sd-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/sd-m'
+    inplanung: M
+    url_echt: 'https://www.sw.hm.edu/studienangebot/master/angewandte_forschung_in_der_sozialen_arbeit_1/mdbi.de.html'
+-
+    nummer: '11'
+    fachrich: 'Gemeinwesenentwicklung, Quartiersmanagement und Lokale Ökonomie'
+    fachriche: 'Community Development and Local Economy'
+    dateiname: gemeinwesenentwicklung_quartiersmanagement_und_lokale_oekonomie_master
+    stg: GW
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: gw-m
+    grade: C.D.
+    grade_lang: 'Community Development'
+    url: 'https://www.hm.edu/gw-m'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/master/gemeinwesenentwicklung_und_lokale_oekonomie/index.de.html'
+-
+    nummer: '11'
+    fachrich: 'Gesellschaftlicher Wandel und Teilhabe'
+    fachriche: 'Social Changes and Participation'
+    dateiname: gesellschaftlicher_wandel_und_teilhabe_master
+    stg: GE
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: ge-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/ge-m'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/master/master_gesellschaftlicher_wandel_und_teilhabe/index.de.html'
+-
+    nummer: '11'
+    fachrich: 'Management Sozialer Innovationen'
+    fachriche: 'Management of Social Innovations'
+    dateiname: management_sozialer_innovationen_bachelor
+    stg: SI
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: si-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/si-b'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/bachelor/management_sozialer_innovation/index.de.html'
+-
+    nummer: '11'
+    fachrich: 'Mental Health'
+    fachriche: 'Mental Health'
+    dateiname: mental_health_master
+    stg: SY
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: sy-m
+    grade: MH.
+    grade_lang: 'Mental Health'
+    url: 'https://www.hm.edu/sy-m'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/master/mental_health/index.de.html'
+-
+    nummer: '11'
+    fachrich: Pflege
+    fachriche: 'Nursing Studies'
+    dateiname: pflege_bachelor
+    stg: PF
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: pf-b
+    grade: Sc.
+    grade_lang: Science
+    url: 'https://www.hm.edu/pf-b'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/bachelor/pflege/index.de.html'
+-
+    nummer: '11'
+    fachrich: 'Psychotherapie mit Schwerpunkt Verhaltenstherapie'
+    fachriche: 'Psychotherapy Specialized in Cognitive-Behavioral Therapy'
+    dateiname: psychotherapie_mit_schwerpunkt_verhaltenstherapie_master
+    stg: PY
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: py-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/py-m'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/master/weiterbildender_master_psychotherapie/index.de.html'
+-
+    nummer: '11'
+    fachrich: 'Soziale Arbeit'
+    fachriche: 'Social Work'
+    dateiname: soziale_arbeit_bachelor
+    stg: SW
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: sw-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/sw-b'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/bachelor/soziale_arbeit/index.de.html'
+-
+    nummer: '11'
+    fachrich: 'Soziale Arbeit BASA-Online'
+    fachriche: 'Social Work - basa-online'
+    dateiname: soziale_arbeit_basaonline_bachelor
+    stg: SB
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: sb-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/sb-b'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/bachelor/soziale_arbeit_basa_online/index.de.html'
+-
+    nummer: '11'
+    fachrich: 'Soziale Arbeit in der Einwanderungsgesellschaft'
+    fachriche: ""
+    dateiname: soziale_arbeit_in_der_einwanderungsgesellschaft_zertifikat
+    stg: SE
+    aaspf_echt: Z
+    abschluss: Zertifikat
+    stg_kurz: se-z
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/se-z'
+    inplanung: ""
+    url_echt: 'https://www.hm.edu/allgemein/studienangebote/wissenschaftliche_weiterbildung/zertifikate/berufstaetige/sae_uebersicht/sae_uebersicht.de.html'
+-
+    nummer: '11'
+    fachrich: 'Soziale Arbeit (Teilzeitstudium)'
+    fachriche: 'Social Work (Part-Time)'
+    dateiname: soziale_arbeit_teilzeitstudium_bachelor
+    stg: SR
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: sr-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/sr-b'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/bachelor/soziale_arbeit_tz/index.de.html'
+-
+    nummer: '11'
+    fachrich: Sozialmanagement
+    fachriche: 'Social Work and Social Economy'
+    dateiname: sozialmanagement_master
+    stg: SO
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: so-m
+    grade: S.M.
+    grade_lang: 'Social Management'
+    url: 'https://www.hm.edu/so-m'
+    inplanung: ""
+    url_echt: 'https://www.sw.hm.edu/studienangebot/master/sozialmanagement/index.de.html'
+-
+    nummer: '12'
+    fachrich: 'Advanced Design'
+    fachriche: 'Advanced Design'
+    dateiname: advanced_design_master
+    stg: DS
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: ds-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/ds-m'
+    inplanung: ""
+    url_echt: 'https://w3design-n.hm.edu/studienangebote/master/masterofartsinadvanceddesign.de.html'
+-
+    nummer: '12'
+    fachrich: Design
+    fachriche: Design
+    dateiname: design_bachelor
+    stg: DS
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: ds-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/ds-b'
+    inplanung: ""
+    url_echt: 'https://w3design-n.hm.edu/studienangebote/bachelor_struktur/index.de.html'
+-
+    nummer: '13'
+    fachrich: 'Interdisziplinäre Studien (Schwerpunkt Ingenieurwissenschaften)'
+    fachriche: ""
+    dateiname: interdisziplinaere_studien_schwerpunkt_ingenieurwissenschaften_bachelor
+    stg: ZD
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: zd-b
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/zd-b'
+    inplanung: ""
+    url_echt: ""
+-
+    nummer: '13'
+    fachrich: 'Interkulturelle Kommunikation und Kooperation'
+    fachriche: 'Intercultural Communication and Cooperation'
+    dateiname: interkulturelle_kommunikation_und_kooperation_master
+    stg: IK
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: ik-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/ik-m'
+    inplanung: ""
+    url_echt: 'https://www.gs.hm.edu/interkulturelle_kommunikation_kooperation/master/index.de.html'
+-
+    nummer: '13'
+    fachrich: 'Interkulturelle Kommunikation und Kooperation'
+    fachriche: 'Intercultural Communication and Cooperation'
+    dateiname: interkulturelle_kommunikation_und_kooperation_zertifikat
+    stg: IK
+    aaspf_echt: Z
+    abschluss: Zertifikat
+    stg_kurz: ik-z
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/ik-z'
+    inplanung: ""
+    url_echt: 'https://www.gs.hm.edu/interkulturelle_kommunikation_kooperation/zusatzqualifikation/index.de.html'
+-
+    nummer: '13'
+    fachrich: 'Internationales Projektmanagement'
+    fachriche: 'International Project Management'
+    dateiname: internationales_projektmanagement_bachelor
+    stg: PI
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: pi-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/pi-b'
+    inplanung: ""
+    url_echt: 'https://www.gs.hm.edu/bachelor_internationales_projektmanagement/index.de.jsp'
+-
+    nummer: '13'
+    fachrich: 'International Project Management Certificate'
+    fachriche: 'International Project Management Certificate'
+    dateiname: international_project_management_certificate_zertifikat
+    stg: PZ
+    aaspf_echt: Z
+    abschluss: Zertifikat
+    stg_kurz: pz-z
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/pz-z'
+    inplanung: ""
+    url_echt: ""
+-
+    nummer: '14'
+    fachrich: 'Hospitality Management'
+    fachriche: 'Hospitality Management'
+    dateiname: hospitality_management_master
+    stg: TH
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: th-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/th-m'
+    inplanung: ""
+    url_echt: 'https://www.tourismus.hm.edu/studienangebot/master_tourismus/hospitality_management/index.de.html'
+-
+    nummer: '14'
+    fachrich: Tourismus-Management
+    fachriche: 'Tourism Management'
+    dateiname: tourismusmanagement_bachelor
+    stg: TR
+    aaspf_echt: B
+    abschluss: Bachelor
+    stg_kurz: tr-b
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/tr-b'
+    inplanung: ""
+    url_echt: 'https://www.tourismus.hm.edu/studienangebot/bachelor/tourismus_management_1/index.de.html'
+-
+    nummer: '14'
+    fachrich: Tourismus-Management
+    fachriche: 'Tourism Management'
+    dateiname: tourismusmanagement_master
+    stg: TR
+    aaspf_echt: M
+    abschluss: Master
+    stg_kurz: tr-m
+    grade: A.
+    grade_lang: Arts
+    url: 'https://www.hm.edu/tr-m'
+    inplanung: ""
+    url_echt: 'https://www.tourismus.hm.edu/studienangebot/master_tourismus/tourismus_management/index.de.html'
+-
+    nummer: '99'
+    fachrich: 'Courses in English'
+    fachriche: 'Courses in English'
+    dateiname: courses_in_english_zertifikat
+    stg: CE
+    aaspf_echt: Z
+    abschluss: Zertifikat
+    stg_kurz: ce-z
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/ce-z'
+    inplanung: ""
+    url_echt: 'https://www.gs.hm.edu/studienangebot/courses_in_english/Index.de.html'
+-
+    nummer: '99'
+    fachrich: 'Summer School'
+    fachriche: 'Summer School'
+    dateiname: summer_school_zertifikat
+    stg: SC
+    aaspf_echt: Z
+    abschluss: Zertifikat
+    stg_kurz: sc-z
+    grade: ""
+    grade_lang: ""
+    url: 'https://www.hm.edu/sc-z'
+    inplanung: ""
+    url_echt: ""

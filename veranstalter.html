@@ -1,0 +1,15 @@
+---
+layout: container
+title: Veranstalter
+---
+
+<h1 class="mt-5 mb-5">{{ page.title }}</h1>
+
+<p>In unserer Übersicht findest Du nicht nur unsere 14 Fakultäten, sondern auch studentische Projekte und externe Aussteller.</p>
+<p>Ganz sicher findest du für dich spannende Vorträge, um die Hochschule München, einzelne Studiengänge sowie studentische Projekte kennenzulernen.</p>
+<p>Weiterhin bieten unseren externen Veranstalter interessante Vortäge für Dich.</p>
+
+
+{% for veranstalter in site.data.veranstalter %}
+    <h6><a href="{{ veranstalter.dateiname | datapage_url: 'veranstalter' }}">{% if veranstalter.titel_lang != "0" %}{{ veranstalter.titel_lang }}{% else %}{{ veranstalter.titel }}{% endif %}</a></h6>
+{% endfor %}

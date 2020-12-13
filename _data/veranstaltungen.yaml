@@ -1,0 +1,48 @@
+-
+    uid_veranstalter: '01'
+    titel: 'Einführung in den Studiengang Architektur Bachelor'
+    teaser: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.'
+    tag: '2021-04-15'
+    start: '13:00'
+    ende: '14:00'
+    stg: ar-b
+    url-zoom: 'https://hm-edu.zoom.us/j/'
+    sprecher: 'Prof. Dr. Tristan Germer'
+    aufzeichnung: 'true'
+    kategorie: Vortrag
+-
+    uid_veranstalter: '10'
+    titel: 'Der Studiengang Betriebswirtschaftslehre'
+    teaser: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.'
+    tag: '2021-04-16'
+    start: '11:00'
+    ende: '12:00'
+    stg: bw-b
+    url-zoom: 'https://hm-edu.zoom.us/j/'
+    sprecher: 'Dean Dean Causevic'
+    aufzeichnung: 'false'
+    kategorie: Vortrag
+-
+    uid_veranstalter: '01'
+    titel: 'Architektur als Master studieren'
+    teaser: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea ta.'
+    tag: '2021-04-15'
+    start: '14:15'
+    ende: '14:45'
+    stg: ar-m
+    url-zoom: 'https://hm-edu.zoom.us/j/'
+    sprecher: 'Prof. Dr. Nikolas Kipp'
+    aufzeichnung: 'true'
+    kategorie: Vortrag
+-
+    uid_veranstalter: '06'
+    titel: 'Laborführung durch das Labor Augenoptik'
+    teaser: 'Lorem ipsum dolor sit amet, consetetur sadipscing.'
+    tag: '2021-04-17'
+    start: '10:00'
+    ende: '11:00'
+    stg: ao-b
+    url-zoom: 'https://hm-edu.zoom.us/j/'
+    sprecher: 'Prof. Dr. Stefanie Lukasz'
+    aufzeichnung: 'false'
+    kategorie: Laborführung
