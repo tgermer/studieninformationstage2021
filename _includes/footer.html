@@ -8,23 +8,18 @@
         </p>
       </div>
       <div class="col-6 col-md">
-        <h5>Features</h5>
-        <ul class="list-unstyled text-small">
-          <li><a class="link-secondary" href="#">Cool stuff</a></li>
-          <li><a class="link-secondary" href="#">Random feature</a></li>
-          <li><a class="link-secondary" href="#">Team feature</a></li>
-          <li><a class="link-secondary" href="#">Stuff for developers</a></li>
-          <li><a class="link-secondary" href="#">Another one</a></li>
-          <li><a class="link-secondary" href="#">Last time</a></li>
-        </ul>
+        <h5>Herausgeber</h5>
+        <address>{{ site.publisher }}
+        </address>
+        <h4>Redaktion</h4>
+        <p>{{ site.editorial }}</p>
       </div>
       <div class="col-6 col-md">
-        <h5>Resources</h5>
+        <h5>Navigation</h5>
         <ul class="list-unstyled text-small">
-          <li><a class="link-secondary" href="#">Resource</a></li>
-          <li><a class="link-secondary" href="#">Resource name</a></li>
-          <li><a class="link-secondary" href="#">Another resource</a></li>
-          <li><a class="link-secondary" href="#">Final resource</a></li>
+          <li><a class="link-secondary" href="{{ site.url }}/veranstaltungen.html">Veranstaltungen</a></li>
+          <li><a class="link-secondary" href="{{ site.url }}/veranstalter.html">Veranstalter</a></li>
+          <li><a class="link-secondary" href="{{ site.url }}/studienangebot.html">Studienangebot </a></li>
         </ul>
       </div>
       <div class="col-6 col-md">
@@ -32,9 +27,25 @@
         <ul class="list-unstyled text-small">
           <li><a class="link-secondary" href="#">Team</a></li>
           <li><a class="link-secondary" href="#">Locations</a></li>
-          <li><a class="link-secondary" href="#">Privacy</a></li>
-          <li><a class="link-secondary" href="#">Terms</a></li>
         </ul>
+      </div>
+    </div>
+    <div class="mt-3">
+      <div class="">
+        <div class="row small text-center">
+          <div class="col-md-4 text-md-start">
+            <a href="{{ site.url_imprint }}" target="_blank">
+              Impressum</a> | <a href="{{ site.url_pravacy_statement }}" target="_blank">
+              Datenschutzerklärung</a>
+          </div>
+          <div class="col-md-4 text-center">
+            Made with <span class="text-danger">♥</span>
+          </div>
+          <div class="col-md-4 text-md-end">
+            <a href="mailto:{{ site.webmaster_email }}?subject=Website%20{{ site.title }}">
+              Webmaster</a>
+          </div>
+        </div>
       </div>
     </div>
   </footer>
