@@ -154,7 +154,7 @@ collections:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Jekyll Data Pages Generator
+# Jekyll Data Pages Generator 1.3.0
 # https://github.com/avillafiorita/jekyll-datapage_gen
 
 page_gen-dirs: true # bewirkt das alle Seiten über das jekyll-datapage_gem Plugin in einem Ordner erstellt werden, welche eine index.html-Datei enthält.
@@ -167,6 +167,8 @@ page_gen:
     dir: veranstalter #<<directory in which files are to be generated>>
     extension: #<<extension used to generate the filename>>
     filter: #<<property to filter data records by>>
+    title: titel #is the name of a field in data which is used for the page title. Optional: if not specified, the generator uses the filename.
+    title_expr: #is an optional Ruby expression used to generate the page title. The expression can reference fields of the data being read using the record hash (e.g., record['first_name'] + "_" + record['last_name']). Optional, but if set, it overrides =title=.
 
   - index_files: #<<true or false>
     data: studiengaenge
@@ -175,6 +177,9 @@ page_gen:
     dir: studienangebot #<<directory in which files are to be generated>>
     extension: #<<extension used to generate the filename>>
     filter: #<<property to filter data records by>>
+    title: fachrich #is the name of a field in data which is used for the page title. Optional: if not specified, the generator uses the filename.
+    title_expr: record['fachrich'] + " (" + record['aaspf_echt'] + "." + record['grade'] + ")" #is an optional Ruby expression used to generate the page title. The expression can reference fields of the data being read using the record hash (e.g., record['first_name'] + "_" + record['last_name']). Optional, but if set, it overrides =title=.
+
 
 
 # gems:
