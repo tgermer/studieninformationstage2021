@@ -5,8 +5,13 @@ title:
 
 <style>
   .bg-img {
-    background-image: url("{{ site.url }}/assets/img/dm_roter_wuerfel_julia_bergmeister.jpg");
-    background-position: center;
+    {% if page.titel contains "Fakultät" %}
+      background-image: url("{{ site.url }}/assets/img/fk{{ page.uid_veranstalter }}.jpg");
+      background-position: right;
+    {% else %}
+      background-image: url("{{ site.url }}/assets/img/dm_roter_wuerfel_julia_bergmeister.jpg");
+      background-position: center;
+    {% endif %}
     background-repeat: no-repeate;
     background-size: cover;
     min-height: 300px;
@@ -17,7 +22,9 @@ title:
 <div class="row">
   <div class="col-12 col-sm-6 bg-primary text-white pt-5">
     <h1>{% if page.titel_lang != "0" %}{{ page.titel_lang }}{% else %}{{ page.titel }}{% endif %}</h1>
-    <a href="{{ page.website }}" target="_blank" class="btn btn-sm btn-outline-light mt-5 mb-3" role="button">Zur Webseite von {{ page.titel }}</a>
+    {% if page.website != '' %}
+      <a href="{{ page.website }}" target="_blank" class="btn btn-sm btn-outline-light mt-5 mb-3" role="button">Zur Webseite von {{ page.titel }}</a>
+    {% endif %}
   </div>
   <div class="col-12 col-sm-6 bg-img">
   </div>
