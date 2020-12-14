@@ -62,15 +62,13 @@ title:
     {% endif %}
 
   </div>
-  <div class="col-12 col-sm-4 pt-5">
+  <div class="col-12 col-sm-4 pt-5 d-none d-sm-none d-md-none d-lg-block">
     {% if page.twitter != nil %}
       <a class="twitter-timeline" data-lang="de" data-height="700" href="https://twitter.com/{{ page.twitter }}?ref_src=twsrc%5Etfw">Tweets by {{ page.twitter }}</a>
       <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     {% endif %}
     {% if page.facebook != nil %}
-      <div class="" style="width:100%">
-        <div class="fb-page" data-href="https://www.facebook.com/{{ page.facebook }}" data-width="500" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/{{ page.facebook }}" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/{{ page.facebook }}">{{ page.titel }}</a></blockquote></div>
-      </div>
+      <div class="fb-page" data-href="https://www.facebook.com/{{ page.facebook }}" data-width="500" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/{{ page.facebook }}" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/{{ page.facebook }}">{{ page.titel }}</a></blockquote></div>
       <div id="fb-root"></div>
       <script async defer crossorigin="anonymous" src="https://connect.facebook.net/de_DE/sdk.js#xfbml=1&autoLogAppEvents=1&version=v9.0&appId=434875649972054" nonce="p300dtaH"></script>
     {% endif %}
